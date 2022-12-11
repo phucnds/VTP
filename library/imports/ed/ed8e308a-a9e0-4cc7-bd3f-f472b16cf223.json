@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "light-fx",
+    "texture": "80ec614c-5fb0-49a4-a295-84b7198eaacd",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      40,
+      41
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      43,
+      43
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

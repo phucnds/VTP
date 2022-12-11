@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-light",
+    "texture": "92ef9620-4b28-4adb-b47f-677b30b69c42",
+    "atlas": "",
+    "rect": [
+      4,
+      6,
+      645,
+      316
+    ],
+    "offset": [
+      0,
+      7
+    ],
+    "originalSize": [
+      653,
+      342
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

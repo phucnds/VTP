@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MMK",
+    "texture": "5e6aa0a7-ab13-40e1-9a55-152917bad5a5",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      40,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      42,
+      118
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

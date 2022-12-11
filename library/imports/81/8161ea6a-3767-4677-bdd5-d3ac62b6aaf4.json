@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-warning",
+    "texture": "9259edc8-98c1-4899-a3da-7c7a0a3bffc1",
+    "atlas": "",
+    "rect": [
+      27,
+      19,
+      154,
+      138
+    ],
+    "offset": [
+      0,
+      16
+    ],
+    "originalSize": [
+      208,
+      208
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GREEN_CASH_1",
+    "texture": "93ef66a7-c61b-44b7-9fd5-311ea2cac5a1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      46,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      46,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-fail",
+    "texture": "5b72327d-b691-4191-871d-dd238a767bed",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      320,
+      86
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      322,
+      89
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LOGO_ELOFUN",
+    "texture": "75978426-e52e-4751-892d-4bc45e4f4e49",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      140,
+      34
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      140,
+      34
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

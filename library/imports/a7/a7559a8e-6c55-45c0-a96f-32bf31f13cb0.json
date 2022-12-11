@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgGameplay_night",
+    "texture": "64924933-5846-46f8-8aeb-2e83f7da7f58",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1224,
+      1628
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1224,
+      1628
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

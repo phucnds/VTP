@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-quest-reward",
+    "texture": "33d69923-bc23-46a4-beab-d696cf5b4efc",
+    "atlas": "",
+    "rect": [
+      7,
+      7,
+      93,
+      67
+    ],
+    "offset": [
+      2,
+      2.5
+    ],
+    "originalSize": [
+      103,
+      86
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

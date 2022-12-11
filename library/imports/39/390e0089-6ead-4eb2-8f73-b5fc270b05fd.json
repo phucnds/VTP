@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "little-bg-red",
+    "texture": "8faa28bd-9f5f-4b81-8deb-6b0b659236f0",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      371,
+      89
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      376,
+      91
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

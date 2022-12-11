@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1cf14da6-d567-4d48-be8e-eae252bb231e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 670,
+  "height": 67,
+  "platformSettings": {},
+  "subMetas": {
+    "By getting the same three numbers in different column, you’d ge": {
+      "ver": "1.0.4",
+      "uuid": "b8608423-7be4-4b9f-9696-a7d0d26fcf9d",
+      "rawTextureUuid": "1cf14da6-d567-4d48-be8e-eae252bb231e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 668,
+      "height": 65,
+      "rawWidth": 670,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

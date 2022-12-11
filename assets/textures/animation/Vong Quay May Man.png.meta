@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "6471f59a-b711-4ba2-8287-3507e98a686c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "Vong Quay May Man": {
+      "ver": "1.0.4",
+      "uuid": "ff00625c-c7bd-464b-a558-f9f12fd50ac0",
+      "rawTextureUuid": "6471f59a-b711-4ba2-8287-3507e98a686c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -76,
+      "offsetY": 29,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 356,
+      "height": 448,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

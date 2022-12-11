@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward-voucher",
+    "texture": "c486d99f-e287-4895-92d3-f42ebfb42ec2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      212,
+      178
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      215,
+      181
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

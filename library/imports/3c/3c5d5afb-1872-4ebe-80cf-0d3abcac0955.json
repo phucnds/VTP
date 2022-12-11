@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Line notice",
+    "texture": "df7f43fb-0ef5-490c-9153-b3cfae70b20c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      14,
+      77
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      14,
+      77
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

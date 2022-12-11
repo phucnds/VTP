@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "44b34503-9d64-4192-8ca0-e2d8ece55f07",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 601,
+  "height": 601,
+  "platformSettings": {},
+  "subMetas": {
+    "tien-mat-banner": {
+      "ver": "1.0.4",
+      "uuid": "9d8d7fb6-3e0c-4528-8c8b-6f90bd47934d",
+      "rawTextureUuid": "44b34503-9d64-4192-8ca0-e2d8ece55f07",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 600,
+      "height": 601,
+      "rawWidth": 601,
+      "rawHeight": 601,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

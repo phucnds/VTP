@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LIGHT BACK",
+    "texture": "62e6aa4a-3004-42bf-bf06-66eabd872f03",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      462,
+      254
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      470,
+      260
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

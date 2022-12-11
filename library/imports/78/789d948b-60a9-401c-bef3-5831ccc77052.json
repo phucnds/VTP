@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward-coin",
+    "texture": "310d366b-9213-49e0-8c35-0c030b129234",
+    "atlas": "",
+    "rect": [
+      12,
+      14,
+      180,
+      174
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      204,
+      201
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

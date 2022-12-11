@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buy-ticket-item-select",
+    "texture": "109e72fe-c146-4a08-9e12-a3019a1a2127",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      668,
+      148
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      668,
+      148
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

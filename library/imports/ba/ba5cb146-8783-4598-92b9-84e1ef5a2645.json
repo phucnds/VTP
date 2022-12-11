@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VIP_BOX_1",
+    "texture": "036c66b2-c75b-48ec-86cc-3c954735403b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      154,
+      171
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      154,
+      171
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

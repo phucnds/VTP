@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quest-item-bg-footer",
+    "texture": "20418b10-799a-401e-b699-f6026620e925",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      711,
+      25
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      712,
+      25
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

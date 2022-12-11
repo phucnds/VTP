@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "buy-ticket-tab-bg",
+    "texture": "06301dd3-8153-4553-a86b-00b397a333fe",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      625,
+      95
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      625,
+      96
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

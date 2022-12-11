@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-tien-mat",
+    "texture": "2e4fc386-8021-41cb-a7c0-2a42ab200c8a",
+    "atlas": "",
+    "rect": [
+      50,
+      8,
+      473,
+      51
+    ],
+    "offset": [
+      1.5,
+      17
+    ],
+    "originalSize": [
+      570,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

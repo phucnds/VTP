@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "lvl-icon",
+    "texture": "c2cad6e6-654e-49eb-972c-4ff571bf5374",
+    "atlas": "",
+    "rect": [
+      8,
+      3,
+      34,
+      68
+    ],
+    "offset": [
+      3,
+      -0.5
+    ],
+    "originalSize": [
+      44,
+      73
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

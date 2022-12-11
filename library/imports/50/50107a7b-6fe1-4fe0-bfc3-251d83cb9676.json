@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "VTPlus-icon",
+    "texture": "b016674c-08f7-4fc9-b733-63dfdb62d383",
+    "atlas": "",
+    "rect": [
+      0,
+      28,
+      45,
+      50
+    ],
+    "offset": [
+      -1.5,
+      -4
+    ],
+    "originalSize": [
+      48,
+      98
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

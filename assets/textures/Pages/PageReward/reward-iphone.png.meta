@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "0d9129e7-772a-4e44-85ba-a8290852c2a2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 183,
+  "height": 203,
+  "platformSettings": {},
+  "subMetas": {
+    "reward-iphone": {
+      "ver": "1.0.4",
+      "uuid": "bf800e57-6afc-4afc-8950-c060d21f9e39",
+      "rawTextureUuid": "0d9129e7-772a-4e44-85ba-a8290852c2a2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -1.5,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 180,
+      "height": 200,
+      "rawWidth": 183,
+      "rawHeight": 203,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

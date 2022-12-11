@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "turn-balance-bg",
+    "texture": "5ee3b6b4-8526-4e5c-b8d8-982945419a36",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      138,
+      46
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      139,
+      46
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ticket-blue",
+    "texture": "ead9bdfa-d8cd-485e-99eb-e9b0acfa3d51",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      71,
+      59
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      75,
+      63
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

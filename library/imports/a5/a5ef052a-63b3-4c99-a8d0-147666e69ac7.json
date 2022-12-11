@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "History",
+    "texture": "66c23ddb-aac4-4ead-962e-f88d3577d8a3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      250,
+      150
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      250,
+      150
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "easyvay-content",
+    "texture": "116540d1-d8de-4548-ab4e-6cfad2cee57c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      578,
+      802
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      578,
+      802
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

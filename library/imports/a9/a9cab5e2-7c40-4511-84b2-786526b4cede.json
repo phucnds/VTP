@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-congrat",
+    "texture": "f97bfefe-f529-497e-b9e5-64ce6a601fc5",
+    "atlas": "",
+    "rect": [
+      37,
+      26,
+      460,
+      100
+    ],
+    "offset": [
+      0,
+      30
+    ],
+    "originalSize": [
+      534,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

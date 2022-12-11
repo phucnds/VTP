@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-buy-weekly-ticket",
+    "texture": "09bd5a47-8040-4c42-9451-3a26a6209b75",
+    "atlas": "",
+    "rect": [
+      38,
+      8,
+      615,
+      553
+    ],
+    "offset": [
+      4,
+      -3
+    ],
+    "originalSize": [
+      683,
+      563
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

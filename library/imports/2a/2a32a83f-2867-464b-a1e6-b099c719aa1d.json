@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank-bg-footer",
+    "texture": "d32b7594-b085-4354-8202-57e49c98d99e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      625,
+      56
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      625,
+      57
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mile-stone-bg-2",
+    "texture": "f3221d50-7723-4748-9dac-7b6cbe741f05",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      70,
+      28
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      70,
+      28
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-newuser",
+    "texture": "37f299f4-93ab-4917-a38a-a109a1bbd46e",
+    "atlas": "",
+    "rect": [
+      33,
+      7,
+      461,
+      99
+    ],
+    "offset": [
+      5.5,
+      -0.5
+    ],
+    "originalSize": [
+      516,
+      112
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

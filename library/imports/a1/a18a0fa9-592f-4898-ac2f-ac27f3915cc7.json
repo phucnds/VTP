@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ticket-tripple",
+    "texture": "c1f15880-28e0-42ca-aef1-d6cab00e3193",
+    "atlas": "",
+    "rect": [
+      13,
+      35,
+      414,
+      191
+    ],
+    "offset": [
+      -4,
+      -11
+    ],
+    "originalSize": [
+      448,
+      239
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

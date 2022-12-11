@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-exit",
+    "texture": "c87439d1-e000-4ddf-9de6-f19364d23148",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      446,
+      64
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      448,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

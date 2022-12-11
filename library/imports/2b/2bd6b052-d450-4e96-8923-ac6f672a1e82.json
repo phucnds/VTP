@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "By getting",
+    "texture": "ca05f504-0625-4e6f-8171-9f91f0913c1b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      642,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      642,
+      85
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

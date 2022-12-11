@@ -1,0 +1,115 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "SoundMgr",
+    "_objFlags": 0,
+    "_native": "",
+    "data": {
+      "__id__": 1
+    },
+    "optimizationPolicy": 0,
+    "asyncLoadAssets": false,
+    "readonly": false
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "SoundMgr",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      }
+    ],
+    "_prefab": {
+      "__id__": 3
+    },
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 0,
+      "height": 0
+    },
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_trs": {
+      "__type__": "TypedArray",
+      "ctor": "Float64Array",
+      "array": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    "_eulerAngles": {
+      "__type__": "cc.Vec3",
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_is3DNode": false,
+    "_groupIndex": 0,
+    "groupIndex": 0,
+    "_id": ""
+  },
+  {
+    "__type__": "2fbc04KsHtO9rOLJqTjEbZu",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "SFX_BUTTON": {
+      "__uuid__": "2e4569bf-ad3d-4f54-9d30-c71540b4d018"
+    },
+    "SFX_POPUP": {
+      "__uuid__": "3f580e67-f738-4099-ab2c-cef1e045ef49"
+    },
+    "SFX_SHOW_NUMBER": {
+      "__uuid__": "c059d9bc-721e-47dc-90f2-b88e6efddd68"
+    },
+    "SFX_SPINNING": {
+      "__uuid__": "d8b6f532-d3dc-48b4-ac63-2e6a4f78195a"
+    },
+    "SFX_SPIN_TAP": {
+      "__uuid__": "2e4569bf-ad3d-4f54-9d30-c71540b4d018"
+    },
+    "BGM": {
+      "__uuid__": "d20199f1-5b84-4584-8714-a0845032e46b"
+    },
+    "_id": ""
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__uuid__": "8f44a25c-964a-447a-bf9e-e0373731efe3"
+    },
+    "fileId": "",
+    "sync": false
+  }
+]

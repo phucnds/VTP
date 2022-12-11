@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-paynow",
+    "texture": "710e2678-9b7c-478f-89bc-566b5178811d",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      295,
+      50
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      297,
+      51
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

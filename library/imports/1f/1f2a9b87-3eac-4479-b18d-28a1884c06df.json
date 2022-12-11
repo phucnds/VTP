@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-inventory",
+    "texture": "2ece6f64-ec4e-4bd0-90fd-8c1d58d6e0e7",
+    "atlas": "",
+    "rect": [
+      20,
+      20,
+      324,
+      73
+    ],
+    "offset": [
+      4,
+      -5.5
+    ],
+    "originalSize": [
+      356,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bangchuyen",
+    "texture": "819af7b4-3a09-42f2-bf09-ada10ac53103",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      734,
+      1338
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      734,
+      1339
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

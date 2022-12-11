@@ -1,0 +1,6 @@
+version: "3.4"
+services:
+  web:
+    image: registry.elofun.net/vtpost-bang-chuyen/web:${npm_package_version}
+    platform: linux/x86_64
+    build: ./

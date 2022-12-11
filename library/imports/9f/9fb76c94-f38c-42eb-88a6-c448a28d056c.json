@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-tutorial",
+    "texture": "e318615a-2256-41fd-8ed6-ec695b155f60",
+    "atlas": "",
+    "rect": [
+      29,
+      12,
+      447,
+      110
+    ],
+    "offset": [
+      1.5,
+      11
+    ],
+    "originalSize": [
+      502,
+      156
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

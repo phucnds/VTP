@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "5298989e-6f65-4b7a-be21-66cde68dc17d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 601,
+  "height": 601,
+  "platformSettings": {},
+  "subMetas": {
+    "gui-tiet-kiem-content": {
+      "ver": "1.0.4",
+      "uuid": "3496866d-3dc9-4870-8553-d6ea6eb545de",
+      "rawTextureUuid": "5298989e-6f65-4b7a-be21-66cde68dc17d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 600,
+      "height": 601,
+      "rawWidth": 601,
+      "rawHeight": 601,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

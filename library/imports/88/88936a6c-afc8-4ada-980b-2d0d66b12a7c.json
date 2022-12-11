@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-buy-weekly-ticket-roll-phase-completed",
+    "texture": "6b2c94e8-d751-445f-a87c-00ee5d9d3073",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      598,
+      233
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      598,
+      233
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

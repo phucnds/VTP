@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward-green-cash",
+    "texture": "0a0e7f7a-9ff1-4931-83b2-06d59c1e96cd",
+    "atlas": "",
+    "rect": [
+      6,
+      11,
+      214,
+      171
+    ],
+    "offset": [
+      1,
+      -4.5
+    ],
+    "originalSize": [
+      224,
+      184
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

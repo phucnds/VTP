@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "quests-bg-deco",
+    "texture": "0dd0e5ab-3014-480c-a518-6c83168fc8df",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      750,
+      108
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      750,
+      109
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

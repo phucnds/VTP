@@ -1,0 +1,83 @@
+{
+  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "ff306d6d-467e-4d3c-b49b-51257f5284f4": {
+      "assetMtime": 1670578673460,
+      "metaMtime": 1670578749918
+    },
+    "f29fb14f-2d0c-4a7f-8c16-fc12d3452ced": {
+      "assetMtime": 1670578673460,
+      "metaMtime": 1670578749932
+    },
+    "90839ce0-7648-4e56-88a8-fc43cb5c32d8": {
+      "assetMtime": 1670578673460,
+      "metaMtime": 1670578749932
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "ff306d6d-467e-4d3c-b49b-51257f5284f4",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "popup-weekly-winner",
+            "uuid": "f29fb14f-2d0c-4a7f-8c16-fc12d3452ced",
+            "textureUuid": "90839ce0-7648-4e56-88a8-fc43cb5c32d8",
+            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583067138_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 750,
+              "height": 768,
+              "rotatedWidth": 750,
+              "rotatedHeight": 768
+            },
+            "rawWidth": 750,
+            "rawHeight": 768,
+            "width": 756,
+            "height": 774,
+            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/90/90839ce0-7648-4e56-88a8-fc43cb5c32d8.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 756,
+            "rotatedHeight": 774
+          }
+        ],
+        "width": 756,
+        "height": 774,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

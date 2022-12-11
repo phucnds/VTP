@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-vip-ticket",
+    "texture": "6fd1e261-747f-4eba-bc23-ab795c1328a2",
+    "atlas": "",
+    "rect": [
+      4,
+      4,
+      216,
+      63
+    ],
+    "offset": [
+      1,
+      -2
+    ],
+    "originalSize": [
+      222,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

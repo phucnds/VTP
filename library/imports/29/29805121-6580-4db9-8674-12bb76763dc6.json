@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-golden-selected-thick",
+    "texture": "1c6a8c7e-67e1-4f5f-a1fe-f2b398a63abb",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      324,
+      116
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      328,
+      120
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-golden-ticket",
+    "texture": "dc48316a-fa12-4620-8df6-827b8cf5c152",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      297,
+      65
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      301,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

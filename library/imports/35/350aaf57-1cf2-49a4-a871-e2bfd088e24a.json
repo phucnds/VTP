@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "easyvay-banner",
+    "texture": "f6d331d5-c58e-4e80-bae0-dfdb16b74cbe",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      600,
+      601
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      601,
+      601
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tien-mat-banner",
+    "texture": "44b34503-9d64-4192-8ca0-e2d8ece55f07",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      600,
+      601
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      601,
+      601
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hold for autospin",
+    "texture": "22f5e9dc-db49-4276-bb76-ffc7dfdb2f47",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      444,
+      219
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      446,
+      221
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

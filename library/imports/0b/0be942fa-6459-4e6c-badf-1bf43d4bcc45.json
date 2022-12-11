@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-easyvay",
+    "texture": "1979deaf-2aae-45ac-9842-baeca0500bfb",
+    "atlas": "",
+    "rect": [
+      3,
+      4,
+      285,
+      43
+    ],
+    "offset": [
+      -1.5,
+      -1
+    ],
+    "originalSize": [
+      294,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

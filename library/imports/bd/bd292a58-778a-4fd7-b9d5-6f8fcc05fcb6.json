@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-spin-success-content",
+    "texture": "bc8f4b3f-7cee-42da-9338-efd83af2d979",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      461,
+      129
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      461,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

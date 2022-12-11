@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Data Icon",
+    "texture": "966f441f-0cb1-4ca6-a393-5ee33a77e6e8",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      79,
+      62
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      81,
+      64
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

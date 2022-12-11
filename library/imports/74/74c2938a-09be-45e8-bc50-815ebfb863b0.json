@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-gold-selected",
+    "texture": "e45fd138-cb23-40e4-85d1-a749cb975185",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      302,
+      90
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      306,
+      92
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

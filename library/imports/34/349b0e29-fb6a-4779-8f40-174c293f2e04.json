@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "table-footer",
+    "texture": "1728617c-7926-42ba-8e94-ccb7d862d720",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      50
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

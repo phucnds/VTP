@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgClose",
+    "texture": "7dc82ff5-d90a-4913-8597-9de630625ed6",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      97,
+      100
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      99,
+      102
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

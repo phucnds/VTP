@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "btn-inventory",
+    "texture": "b2812b2b-d5ae-48e7-92a4-46b767e62926",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      139,
+      141
+    ],
+    "offset": [
+      0.5,
+      -1
+    ],
+    "originalSize": [
+      144,
+      145
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

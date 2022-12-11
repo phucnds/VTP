@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MMK Icon",
+    "texture": "d742ff39-87ed-4db0-a0ab-b5b971f69487",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      64,
+      76
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      67,
+      79
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

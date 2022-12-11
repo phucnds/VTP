@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward-iphone",
+    "texture": "0d9129e7-772a-4e44-85ba-a8290852c2a2",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      180,
+      200
+    ],
+    "offset": [
+      1.5,
+      -1.5
+    ],
+    "originalSize": [
+      183,
+      203
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

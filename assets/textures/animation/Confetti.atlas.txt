@@ -1,0 +1,118 @@
+
+Confetti.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Confes/Confesti01
+  rotate: false
+  xy: 114, 21
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+Confes/Confesti02
+  rotate: false
+  xy: 224, 6
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+Confes/Confesti03
+  rotate: false
+  xy: 43, 4
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+Confes/Confesti04
+  rotate: false
+  xy: 2, 48
+  size: 128, 77
+  orig: 128, 77
+  offset: 0, 0
+  index: -1
+Confes/Confesti05
+  rotate: false
+  xy: 224, 63
+  size: 70, 62
+  orig: 70, 62
+  offset: 0, 0
+  index: -1
+Confes/Confesti06
+  rotate: false
+  xy: 2, 5
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+Confes/Confesti07
+  rotate: false
+  xy: 79, 11
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+Confes/Confesti08
+  rotate: false
+  xy: 276, 11
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+Confes/Confesti09
+  rotate: false
+  xy: 166, 3
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Confes/Confesti10
+  rotate: false
+  xy: 150, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Confes/Confesti11
+  rotate: false
+  xy: 114, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Confes/Confesti12
+  rotate: false
+  xy: 161, 28
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+Confes/Confesti13
+  rotate: false
+  xy: 183, 15
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+Confes/Confesti14
+  rotate: false
+  xy: 183, 2
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Confes/Confesti15
+  rotate: false
+  xy: 133, 3
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Confes/Confesti16
+  rotate: false
+  xy: 132, 51
+  size: 90, 74
+  orig: 90, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "76cec2f3-b1e7-40a6-a793-f1d2072f9846",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 733,
+  "height": 36,
+  "platformSettings": {},
+  "subMetas": {
+    "quest-bg-footer": {
+      "ver": "1.0.4",
+      "uuid": "34bab3b6-8581-43e6-9e37-70af8416aea6",
+      "rawTextureUuid": "76cec2f3-b1e7-40a6-a793-f1d2072f9846",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 733,
+      "height": 36,
+      "rawWidth": 733,
+      "rawHeight": 36,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

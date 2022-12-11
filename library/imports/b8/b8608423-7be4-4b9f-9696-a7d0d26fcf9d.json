@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "By getting the same three numbers in different column, you’d ge",
+    "texture": "1cf14da6-d567-4d48-be8e-eae252bb231e",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      668,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      670,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

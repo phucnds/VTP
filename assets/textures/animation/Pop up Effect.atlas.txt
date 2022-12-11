@@ -1,0 +1,83 @@
+
+Pop up Effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Green money
+  rotate: false
+  xy: 295, 892
+  size: 157, 129
+  orig: 157, 129
+  offset: 0, 0
+  index: -1
+Light dot
+  rotate: false
+  xy: 2, 6
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Light ef01
+  rotate: false
+  xy: 2, 248
+  size: 291, 773
+  orig: 291, 773
+  offset: 0, 0
+  index: -1
+Light ef02
+  rotate: false
+  xy: 390, 2
+  size: 130, 774
+  orig: 130, 774
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 47, 9
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+spark 01
+  rotate: false
+  xy: 87, 10
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+spark 02
+  rotate: false
+  xy: 87, 32
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+ticket 01
+  rotate: false
+  xy: 207, 72
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+ticket 02
+  rotate: false
+  xy: 2, 51
+  size: 203, 195
+  orig: 203, 195
+  offset: 0, 0
+  index: -1
+xu 1
+  rotate: false
+  xy: 295, 778
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+xu 2
+  rotate: false
+  xy: 207, 10
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1

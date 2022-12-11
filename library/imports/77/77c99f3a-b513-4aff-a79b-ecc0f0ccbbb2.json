@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Winner notice",
+    "texture": "8bd4a803-f138-433c-ae07-e36237def16d",
+    "atlas": "",
+    "rect": [
+      2,
+      1,
+      840,
+      332
+    ],
+    "offset": [
+      0.5,
+      1
+    ],
+    "originalSize": [
+      843,
+      336
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

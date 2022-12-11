@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weekly-prize",
+    "texture": "4783de4d-4041-476f-8d45-c8530c35be27",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      474,
+      211
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      474,
+      212
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

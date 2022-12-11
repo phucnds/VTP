@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "rank-coin",
+    "texture": "e29efcc3-629e-4572-98cd-379b5a8db797",
+    "atlas": "",
+    "rect": [
+      9,
+      8,
+      34,
+      35
+    ],
+    "offset": [
+      1,
+      -1
+    ],
+    "originalSize": [
+      50,
+      49
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

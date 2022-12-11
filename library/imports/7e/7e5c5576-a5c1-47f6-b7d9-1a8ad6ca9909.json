@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-buy-weekly-ticket-buy-phase-timeout",
+    "texture": "ff6e558a-f031-4e1a-9030-1eab7111f277",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      503,
+      233
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      504,
+      234
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

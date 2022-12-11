@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "x10-icon",
+    "texture": "0526d0d3-154b-4904-aeef-578918c5bc65",
+    "atlas": "",
+    "rect": [
+      5,
+      4,
+      126,
+      126
+    ],
+    "offset": [
+      1,
+      -0.5
+    ],
+    "originalSize": [
+      134,
+      133
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

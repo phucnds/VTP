@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgSanqua",
+    "texture": "eb9483aa-7c62-4db2-b6aa-3fbfc0c2d0ff",
+    "atlas": "",
+    "rect": [
+      1,
+      5,
+      259,
+      90
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      262,
+      97
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

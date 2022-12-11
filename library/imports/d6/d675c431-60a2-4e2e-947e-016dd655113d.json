@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hold for autospin Sea",
+    "texture": "6c47255b-e886-419b-9db8-87efc1d56656",
+    "atlas": "",
+    "rect": [
+      6,
+      2,
+      887,
+      387
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      900,
+      390
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

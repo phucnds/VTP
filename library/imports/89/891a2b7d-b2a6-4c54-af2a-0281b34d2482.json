@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shell-user-greeting",
+    "texture": "5b19ae91-e365-42ca-94f7-87230de1435a",
+    "atlas": "",
+    "rect": [
+      9,
+      13,
+      638,
+      628
+    ],
+    "offset": [
+      1,
+      61
+    ],
+    "originalSize": [
+      654,
+      776
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

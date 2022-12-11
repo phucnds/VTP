@@ -1,0 +1,1546 @@
+2022-12-09T09:39:31.685Z - normal: Load ~/.CocosCreator/settings.json
+2022-12-09T09:39:31.714Z - normal: Initializing Asset Database
+2022-12-09T09:39:31.717Z - normal: checking language setting...
+2022-12-09T09:39:31.717Z - normal: Language: en
+2022-12-09T09:39:32.186Z - success: protocol editor-framework registered
+2022-12-09T09:39:32.186Z - success: protocol app registered
+2022-12-09T09:39:32.186Z - success: protocol theme registered
+2022-12-09T09:39:32.186Z - success: protocol packages registered
+2022-12-09T09:39:32.186Z - success: protocol uuid registerred
+2022-12-09T09:39:32.187Z - success: protocol db registerred
+2022-12-09T09:39:32.187Z - success: protocol thumbnail registerred
+2022-12-09T09:39:32.187Z - success: protocol unpack registerred
+2022-12-09T09:39:32.187Z - success: protocol disable-commonjs registerred
+2022-12-09T09:39:34.598Z - normal: connected!
+2022-12-09T09:39:34.602Z - normal: Check project /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T09:39:34.609Z - normal: Initializing project /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T09:39:34.741Z - success: adapters loaded
+2022-12-09T09:39:34.746Z - success: asset-db-debugger loaded
+2022-12-09T09:39:34.779Z - success: fb-audience-network loaded
+2022-12-09T09:39:34.799Z - success: fb-live-stream loaded
+2022-12-09T09:39:34.801Z - success: google-play-instant loaded
+2022-12-09T09:39:34.801Z - success: jsb-adapter loaded
+2022-12-09T09:39:34.804Z - success: package-manager loaded
+2022-12-09T09:39:34.804Z - success: runtime-adapters loaded
+2022-12-09T09:39:34.805Z - success: runtime-dev-tools loaded
+2022-12-09T09:39:34.806Z - success: ui-kit-preview-extra loaded
+2022-12-09T09:39:34.807Z - success: ui-kit-preview loaded
+2022-12-09T09:39:34.834Z - success: alipay-minigame loaded
+2022-12-09T09:39:34.884Z - success: assets loaded
+2022-12-09T09:39:34.886Z - success: baidugame-opendata loaded
+2022-12-09T09:39:34.886Z - success: baidugame loaded
+2022-12-09T09:39:34.888Z - success: builder loaded
+2022-12-09T09:39:34.889Z - success: bytedance-opendata loaded
+2022-12-09T09:39:34.890Z - success: bytedance loaded
+2022-12-09T09:39:34.891Z - success: channel-upload-tools loaded
+2022-12-09T09:39:34.893Z - success: cloud-function loaded
+2022-12-09T09:39:34.992Z - success: cocos-services loaded
+2022-12-09T09:39:34.995Z - success: console loaded
+2022-12-09T09:39:34.996Z - success: curve-editor loaded
+2022-12-09T09:39:35.002Z - success: fb-instant-games loaded
+2022-12-09T09:39:35.003Z - success: game-window loaded
+2022-12-09T09:39:35.004Z - success: google-instant-games loaded
+2022-12-09T09:39:35.006Z - success: hierarchy loaded
+2022-12-09T09:39:35.007Z - success: huawei-agc loaded
+2022-12-09T09:39:35.008Z - success: huawei-runtime loaded
+2022-12-09T09:39:35.010Z - success: inspector loaded
+2022-12-09T09:39:35.018Z - success: cpk-publish loaded
+2022-12-09T09:39:35.018Z - success: keystore loaded
+2022-12-09T09:39:35.027Z - success: link-sure-runtime loaded
+2022-12-09T09:39:35.033Z - success: node-library loaded
+2022-12-09T09:39:35.033Z - success: open-recent-items loaded
+2022-12-09T09:39:35.034Z - success: oppo-runtime loaded
+2022-12-09T09:39:35.035Z - success: package-asset loaded
+2022-12-09T09:39:35.036Z - success: preferences loaded
+2022-12-09T09:39:35.038Z - success: project-importer loaded
+2022-12-09T09:39:35.040Z - success: project-settings loaded
+2022-12-09T09:39:35.049Z - success: qtt-runtime loaded
+2022-12-09T09:39:35.051Z - success: scene loaded
+2022-12-09T09:39:35.051Z - success: simulator-debugger loaded
+2022-12-09T09:39:35.052Z - success: sprite-editor loaded
+2022-12-09T09:39:35.070Z - success: store loaded
+2022-12-09T09:39:35.072Z - success: timeline loaded
+2022-12-09T09:39:35.074Z - success: vivo-runtime loaded
+2022-12-09T09:39:35.075Z - success: wechatgame-opendata loaded
+2022-12-09T09:39:35.076Z - success: wechatgame loaded
+2022-12-09T09:39:35.077Z - success: xiaomi-runtime loaded
+2022-12-09T09:39:35.118Z - success: im-plugin loaded
+2022-12-09T09:39:35.121Z - success: preview server running at http://localhost:7456
+2022-12-09T09:39:36.130Z - normal: Initializing Cocos2d
+2022-12-09T09:39:36.288Z - normal: Initializing engine extends
+2022-12-09T09:39:36.972Z - error: Can not find texture "VDS.png" for atlas "/Users/swift/Documents/GitHub/viettel-post-noel-2022/assets/textures/animation/VDS.atlas.txt"
+    at TextureParser.load (/Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:102:20)
+    at TextureAtlas.load (/Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/lib/spine.js:6624:36)
+    at new TextureAtlas (/Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/lib/spine.js:6589:18)
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:184:17
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:70:13
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:123:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:54:3)
+2022-12-09T09:39:36.973Z - failed: [db-task][init] Failed to post import asset /Users/swift/Documents/GitHub/viettel-post-noel-2022/assets/textures/animation/VDS.json, message: Error: Failed to load atlas file: "/Users/swift/Documents/GitHub/viettel-post-noel-2022/assets/textures/animation/VDS.atlas.txt". TypeError: Cannot read property 'setFilters' of null
+    at TextureAtlas.load (/Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/lib/spine.js:6625:34)
+    at new TextureAtlas (/Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/lib/spine.js:6589:18)
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:184:17
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:70:13
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:123:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:54:3)
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:187:27
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/engine/extensions/spine/editor/spine-meta.js:70:13
+    at /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/app.asar/node_modules/graceful-fs/graceful-fs.js:123:16
+    at FSReqCallback.readFileAfterClose [as oncomplete] (internal/fs/read_file_context.js:54:3)
+2022-12-09T09:39:39.235Z - normal: Loading packages
+2022-12-09T09:39:39.238Z - normal: Watching packages
+2022-12-09T09:39:39.289Z - normal: Run Application
+2022-12-09T09:39:40.320Z - info: Cocos Service load base data!
+2022-12-09T09:39:42.964Z - warn: Should not specify class name Page for Component which defines in project.
+2022-12-09T09:39:43.049Z - warn: this._super declared in 'PopupBuyTurn.onStateChange' but no super method defined
+2022-12-09T09:39:43.049Z - warn: this._super declared in 'PopupBuyTurn.onEnable' but no super method defined
+2022-12-09T09:39:43.049Z - warn: this._super declared in 'PopupBuyTurn.onDisable' but no super method defined
+2022-12-09T09:39:43.049Z - warn: this._super declared in 'PopupBuyTurn.onDestroy' but no super method defined
+2022-12-09T09:39:43.050Z - warn: The type of "PopupBuyTurn.placeHolder" must be cc.String, not String.
+2022-12-09T09:39:43.053Z - warn: this._super declared in 'PageBuyTurn.onStateChange' but no super method defined
+2022-12-09T09:39:43.053Z - warn: this._super declared in 'PageBuyTurn.onDestroy' but no super method defined
+2022-12-09T09:39:43.054Z - warn: this._super declared in 'PageCollections.onStateChange' but no super method defined
+2022-12-09T09:39:43.054Z - warn: this._super declared in 'PageCollections.onDestroy' but no super method defined
+2022-12-09T09:39:43.055Z - warn: this._super declared in 'PageGuiTietKiem.onStateChange' but no super method defined
+2022-12-09T09:39:43.055Z - warn: this._super declared in 'PageGuiTietKiem.onEnable' but no super method defined
+2022-12-09T09:39:43.055Z - warn: this._super declared in 'PageGuiTietKiem.onDestroy' but no super method defined
+2022-12-09T09:39:43.072Z - warn: this._super declared in 'CompQuestsContainer.onEnable' but no super method defined
+2022-12-09T09:39:43.072Z - warn: this._super declared in 'CompQuestsContainer.onDisable' but no super method defined
+2022-12-09T09:39:43.072Z - warn: this._super declared in 'CompQuestsContainer.onDestroy' but no super method defined
+2022-12-09T09:39:43.074Z - warn: this._super declared in 'RewardPopupsMgr.onStateChange' but no super method defined
+2022-12-09T09:39:43.074Z - warn: this._super declared in 'RewardPopupsMgr.onEnable' but no super method defined
+2022-12-09T09:39:43.074Z - warn: this._super declared in 'RewardPopupsMgr.onDisable' but no super method defined
+2022-12-09T09:39:43.074Z - warn: this._super declared in 'RewardPopupsMgr.onDestroy' but no super method defined
+2022-12-09T09:39:43.074Z - warn: The type of "PopupDailyLogin.coinAndTicketTxtPlaceholder" must be cc.String, not String.
+2022-12-09T09:39:43.074Z - warn: The type of "PopupDailyLogin.descriptionTxtPlaceholder" must be cc.String, not String.
+2022-12-09T09:39:43.080Z - warn: The type of "PathFollowObject.delay" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:39:43.080Z - warn: The type of "GiftsMgr.numbOfGifts" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:39:43.081Z - warn: this._super declared in 'PageHome.onEnable' but no super method defined
+2022-12-09T09:39:43.081Z - warn: this._super declared in 'PageHome.onDestroy' but no super method defined
+2022-12-09T09:39:43.088Z - warn: this._super declared in 'PopupReward.onStateChange' but no super method defined
+2022-12-09T09:39:43.088Z - warn: this._super declared in 'PopupReward.onDestroy' but no super method defined
+2022-12-09T09:39:43.089Z - warn: this._super declared in 'PageInventory.onStateChange' but no super method defined
+2022-12-09T09:39:43.089Z - warn: this._super declared in 'PageInventory.onEnable' but no super method defined
+2022-12-09T09:39:43.089Z - warn: this._super declared in 'PageInventory.onDestroy' but no super method defined
+2022-12-09T09:39:43.090Z - warn: this._super declared in 'PageLeaderboard.onStateChange' but no super method defined
+2022-12-09T09:39:43.090Z - warn: this._super declared in 'PageLeaderboard.onDestroy' but no super method defined
+2022-12-09T09:39:43.093Z - warn: this._super declared in 'PageMgr.onEnable' but no super method defined
+2022-12-09T09:39:43.093Z - warn: this._super declared in 'PageMgr.onDisable' but no super method defined
+2022-12-09T09:39:43.093Z - warn: this._super declared in 'PageMgr.onDestroy' but no super method defined
+2022-12-09T09:39:43.094Z - warn: this._super declared in 'PagePaynow.onStateChange' but no super method defined
+2022-12-09T09:39:43.094Z - warn: this._super declared in 'PagePaynow.onEnable' but no super method defined
+2022-12-09T09:39:43.094Z - warn: this._super declared in 'PagePaynow.onDestroy' but no super method defined
+2022-12-09T09:39:43.095Z - warn: this._super declared in 'PageRules.onStateChange' but no super method defined
+2022-12-09T09:39:43.095Z - warn: this._super declared in 'PageRules.onEnable' but no super method defined
+2022-12-09T09:39:43.095Z - warn: this._super declared in 'PageRules.onDisable' but no super method defined
+2022-12-09T09:39:43.095Z - warn: this._super declared in 'PageRules.onDestroy' but no super method defined
+2022-12-09T09:39:43.096Z - warn: this._super declared in 'PageSavenow.onStateChange' but no super method defined
+2022-12-09T09:39:43.096Z - warn: this._super declared in 'PageSavenow.onEnable' but no super method defined
+2022-12-09T09:39:43.096Z - warn: this._super declared in 'PageSavenow.onDestroy' but no super method defined
+2022-12-09T09:39:43.096Z - warn: this._super declared in 'PageThamQuan.onStateChange' but no super method defined
+2022-12-09T09:39:43.096Z - warn: this._super declared in 'PageThamQuan.onEnable' but no super method defined
+2022-12-09T09:39:43.097Z - warn: this._super declared in 'PageThamQuan.onDestroy' but no super method defined
+2022-12-09T09:39:43.098Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onEnable' but no super method defined
+2022-12-09T09:39:43.098Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDisable' but no super method defined
+2022-12-09T09:39:43.098Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDestroy' but no super method defined
+2022-12-09T09:39:43.099Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onStateChange' but no super method defined
+2022-12-09T09:39:43.099Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDisable' but no super method defined
+2022-12-09T09:39:43.099Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDestroy' but no super method defined
+2022-12-09T09:39:43.100Z - warn: The type of "PopupBuyWeeklyTicketSuccess.descriptionPlaceHolder" must be cc.String, not String.
+2022-12-09T09:39:43.102Z - warn: this._super declared in 'PopupError.onDestroy' but no super method defined
+2022-12-09T09:39:43.102Z - warn: The type of "PopupError.descriptionTxt" must be cc.String, not String.
+2022-12-09T09:39:43.103Z - warn: this._super declared in 'PopupErrorReload.onStateChange' but no super method defined
+2022-12-09T09:39:43.103Z - warn: this._super declared in 'PopupErrorReload.onEnable' but no super method defined
+2022-12-09T09:39:43.103Z - warn: this._super declared in 'PopupErrorReload.onDisable' but no super method defined
+2022-12-09T09:39:43.103Z - warn: this._super declared in 'PopupErrorReload.onDestroy' but no super method defined
+2022-12-09T09:39:43.105Z - warn: this._super declared in 'PopupLeaderboard.onStateChange' but no super method defined
+2022-12-09T09:39:43.105Z - warn: this._super declared in 'PopupLeaderboard.onEnable' but no super method defined
+2022-12-09T09:39:43.105Z - warn: this._super declared in 'PopupLeaderboard.onDisable' but no super method defined
+2022-12-09T09:39:43.105Z - warn: this._super declared in 'PopupLeaderboard.onDestroy' but no super method defined
+2022-12-09T09:39:43.106Z - warn: this._super declared in 'PopupManager.onEnable' but no super method defined
+2022-12-09T09:39:43.106Z - warn: this._super declared in 'PopupManager.onDisable' but no super method defined
+2022-12-09T09:39:43.106Z - warn: this._super declared in 'PopupManager.onDestroy' but no super method defined
+2022-12-09T09:39:43.109Z - warn: this._super declared in 'PopupTutorial.onStateChange' but no super method defined
+2022-12-09T09:39:43.109Z - warn: this._super declared in 'PopupTutorial.onDisable' but no super method defined
+2022-12-09T09:39:43.109Z - warn: this._super declared in 'PopupTutorial.onDestroy' but no super method defined
+2022-12-09T09:39:43.113Z - warn: this._super declared in 'ListView.onStateChange' but no super method defined
+2022-12-09T09:39:43.113Z - warn: this._super declared in 'ListView.onDestroy' but no super method defined
+2022-12-09T09:39:43.113Z - warn: The type of "ListView.api" must be cc.String, not String.
+2022-12-09T09:39:43.113Z - warn: The type of "ListView.isPage" must be cc.Boolean, not Boolean.
+2022-12-09T09:39:43.116Z - warn: this._super declared in 'Tabs.onStateChange' but no super method defined
+2022-12-09T09:39:43.116Z - warn: this._super declared in 'Tabs.onDisable' but no super method defined
+2022-12-09T09:39:43.116Z - warn: this._super declared in 'Tabs.onDestroy' but no super method defined
+2022-12-09T09:39:43.117Z - warn: The type of "CompAvatar.customSize" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:39:43.117Z - warn: this._super declared in 'CompCollectionContainer.onStateChange' but no super method defined
+2022-12-09T09:39:43.118Z - warn: this._super declared in 'CompCollectionContainer.onEnable' but no super method defined
+2022-12-09T09:39:43.118Z - warn: this._super declared in 'CompCollectionContainer.onDisable' but no super method defined
+2022-12-09T09:39:43.118Z - warn: this._super declared in 'CompCollectionContainer.onDestroy' but no super method defined
+2022-12-09T09:39:43.118Z - warn: this._super declared in 'CompHeader.onStateChange' but no super method defined
+2022-12-09T09:39:43.118Z - warn: this._super declared in 'CompHeader.onEnable' but no super method defined
+2022-12-09T09:39:43.119Z - warn: this._super declared in 'CompHeader.onDisable' but no super method defined
+2022-12-09T09:39:43.119Z - warn: this._super declared in 'CompHeader.onDestroy' but no super method defined
+2022-12-09T09:39:43.122Z - warn: this._super declared in 'InteractDetect.onStateChange' but no super method defined
+2022-12-09T09:39:43.122Z - warn: this._super declared in 'InteractDetect.onEnable' but no super method defined
+2022-12-09T09:39:43.122Z - warn: this._super declared in 'InteractDetect.onDisable' but no super method defined
+2022-12-09T09:39:43.122Z - warn: this._super declared in 'InteractDetect.onDestroy' but no super method defined
+2022-12-09T09:39:43.123Z - warn: this._super declared in 'LoginProgressBar.onEnable' but no super method defined
+2022-12-09T09:39:43.123Z - warn: this._super declared in 'LoginProgressBar.onDisable' but no super method defined
+2022-12-09T09:39:43.123Z - warn: this._super declared in 'LoginProgressBar.onDestroy' but no super method defined
+2022-12-09T09:40:04.399Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:40:04.400Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:40:05.258Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:40:05.259Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:40:05.259Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:40:05.771Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.774Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.777Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.778Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.778Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.779Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.781Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.782Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.798Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.799Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:40:05.799Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:18.592Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:41:18.595Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:41:18.795Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:41:18.796Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:41:18.796Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:41:19.043Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.043Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.044Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.047Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.047Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.048Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.049Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.050Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.051Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.052Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.053Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.328Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:41:19.329Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:41:19.547Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:41:19.547Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:41:19.547Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:41:19.785Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.786Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.786Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.787Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.787Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.788Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.789Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.789Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.790Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.790Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:41:19.791Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:18.750Z - warn: Should not specify class name Page for Component which defines in project.
+2022-12-09T09:42:18.765Z - warn: this._super declared in 'PopupBuyTurn.onStateChange' but no super method defined
+2022-12-09T09:42:18.765Z - warn: this._super declared in 'PopupBuyTurn.onEnable' but no super method defined
+2022-12-09T09:42:18.765Z - warn: this._super declared in 'PopupBuyTurn.onDisable' but no super method defined
+2022-12-09T09:42:18.765Z - warn: this._super declared in 'PopupBuyTurn.onDestroy' but no super method defined
+2022-12-09T09:42:18.766Z - warn: The type of "PopupBuyTurn.placeHolder" must be cc.String, not String.
+2022-12-09T09:42:18.766Z - warn: this._super declared in 'PageBuyTurn.onStateChange' but no super method defined
+2022-12-09T09:42:18.766Z - warn: this._super declared in 'PageBuyTurn.onDestroy' but no super method defined
+2022-12-09T09:42:18.767Z - warn: this._super declared in 'PageCollections.onStateChange' but no super method defined
+2022-12-09T09:42:18.767Z - warn: this._super declared in 'PageCollections.onDestroy' but no super method defined
+2022-12-09T09:42:18.767Z - warn: this._super declared in 'PageGuiTietKiem.onStateChange' but no super method defined
+2022-12-09T09:42:18.768Z - warn: this._super declared in 'PageGuiTietKiem.onEnable' but no super method defined
+2022-12-09T09:42:18.768Z - warn: this._super declared in 'PageGuiTietKiem.onDestroy' but no super method defined
+2022-12-09T09:42:18.780Z - warn: this._super declared in 'CompQuestsContainer.onEnable' but no super method defined
+2022-12-09T09:42:18.780Z - warn: this._super declared in 'CompQuestsContainer.onDisable' but no super method defined
+2022-12-09T09:42:18.781Z - warn: this._super declared in 'CompQuestsContainer.onDestroy' but no super method defined
+2022-12-09T09:42:18.782Z - warn: this._super declared in 'RewardPopupsMgr.onStateChange' but no super method defined
+2022-12-09T09:42:18.783Z - warn: this._super declared in 'RewardPopupsMgr.onEnable' but no super method defined
+2022-12-09T09:42:18.783Z - warn: this._super declared in 'RewardPopupsMgr.onDisable' but no super method defined
+2022-12-09T09:42:18.783Z - warn: this._super declared in 'RewardPopupsMgr.onDestroy' but no super method defined
+2022-12-09T09:42:18.783Z - warn: The type of "PopupDailyLogin.coinAndTicketTxtPlaceholder" must be cc.String, not String.
+2022-12-09T09:42:18.783Z - warn: The type of "PopupDailyLogin.descriptionTxtPlaceholder" must be cc.String, not String.
+2022-12-09T09:42:18.790Z - warn: The type of "PathFollowObject.delay" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:42:18.791Z - warn: The type of "GiftsMgr.numbOfGifts" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:42:18.877Z - warn: this._super declared in 'PageHome.onEnable' but no super method defined
+2022-12-09T09:42:18.877Z - warn: this._super declared in 'PageHome.onDestroy' but no super method defined
+2022-12-09T09:42:18.877Z - warn: this._super declared in 'PopupReward.onStateChange' but no super method defined
+2022-12-09T09:42:18.877Z - warn: this._super declared in 'PopupReward.onDestroy' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageInventory.onStateChange' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageInventory.onEnable' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageInventory.onDestroy' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageLeaderboard.onStateChange' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageLeaderboard.onDestroy' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageMgr.onEnable' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageMgr.onDisable' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PageMgr.onDestroy' but no super method defined
+2022-12-09T09:42:18.878Z - warn: this._super declared in 'PagePaynow.onStateChange' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PagePaynow.onEnable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PagePaynow.onDestroy' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageRules.onStateChange' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageRules.onEnable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageRules.onDisable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageRules.onDestroy' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageSavenow.onStateChange' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageSavenow.onEnable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageSavenow.onDestroy' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageThamQuan.onStateChange' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageThamQuan.onEnable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageThamQuan.onDestroy' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onEnable' but no super method defined
+2022-12-09T09:42:18.879Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDisable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDestroy' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onStateChange' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDisable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDestroy' but no super method defined
+2022-12-09T09:42:18.880Z - warn: The type of "PopupBuyWeeklyTicketSuccess.descriptionPlaceHolder" must be cc.String, not String.
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupError.onDestroy' but no super method defined
+2022-12-09T09:42:18.880Z - warn: The type of "PopupError.descriptionTxt" must be cc.String, not String.
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupErrorReload.onStateChange' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupErrorReload.onEnable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupErrorReload.onDisable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupErrorReload.onDestroy' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupLeaderboard.onStateChange' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupLeaderboard.onEnable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupLeaderboard.onDisable' but no super method defined
+2022-12-09T09:42:18.880Z - warn: this._super declared in 'PopupLeaderboard.onDestroy' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupManager.onEnable' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupManager.onDisable' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupManager.onDestroy' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupTutorial.onStateChange' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupTutorial.onDisable' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'PopupTutorial.onDestroy' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'ListView.onStateChange' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'ListView.onDestroy' but no super method defined
+2022-12-09T09:42:18.881Z - warn: The type of "ListView.api" must be cc.String, not String.
+2022-12-09T09:42:18.881Z - warn: The type of "ListView.isPage" must be cc.Boolean, not Boolean.
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'Tabs.onStateChange' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'Tabs.onDisable' but no super method defined
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'Tabs.onDestroy' but no super method defined
+2022-12-09T09:42:18.881Z - warn: The type of "CompAvatar.customSize" must be cc.Float or cc.Integer, not Number.
+2022-12-09T09:42:18.881Z - warn: this._super declared in 'CompCollectionContainer.onStateChange' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompCollectionContainer.onEnable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompCollectionContainer.onDisable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompCollectionContainer.onDestroy' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompHeader.onStateChange' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompHeader.onEnable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompHeader.onDisable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'CompHeader.onDestroy' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'InteractDetect.onStateChange' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'InteractDetect.onEnable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'InteractDetect.onDisable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'InteractDetect.onDestroy' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'LoginProgressBar.onEnable' but no super method defined
+2022-12-09T09:42:18.882Z - warn: this._super declared in 'LoginProgressBar.onDisable' but no super method defined
+2022-12-09T09:42:18.886Z - warn: this._super declared in 'LoginProgressBar.onDestroy' but no super method defined
+2022-12-09T09:42:20.815Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:42:20.816Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:42:21.557Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:42:21.557Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:42:21.558Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:42:21.954Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.955Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.955Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.956Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.957Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.957Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.958Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.958Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.959Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.959Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:42:21.960Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:49:59.980Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:49:59.981Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:50:00.132Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:50:00.132Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:50:00.132Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:50:00.362Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.365Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.366Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.368Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.369Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.371Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.373Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.375Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.377Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.378Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.380Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:00.768Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T09:50:00.769Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T09:50:00.987Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:50:00.987Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T09:50:00.987Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T09:50:01.230Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.232Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.232Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.233Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.234Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.236Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.237Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.237Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.238Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.238Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T09:50:01.239Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T10:50:43.156Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "agreements": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "d054a05c-c593-4407-b24d-53c716205812"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "d054a05c-c593-4407-b24d-53c716205812",
+  "template": "link",
+  "title": "viettel-post-noel-2022",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "ac5f21bf-bed3-47",
+  "zipCompressJs": true,
+  "project": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectName": "viettel-post-noel-2022",
+  "debugBuildWorker": false
+}
+2022-12-09T10:50:43.160Z - normal: Building /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T10:50:43.160Z - normal: Destination /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile
+2022-12-09T10:50:43.220Z - normal: Delete /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile/**/*
+2022-12-09T10:50:43.255Z - normal: Building 3D physics modules...
+2022-12-09T10:50:50.482Z - normal: Compiling /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T10:50:59.928Z - normal: Start building assets
+2022-12-09T10:50:59.928Z - normal: Start spawn build-worker
+2022-12-09T10:51:00.307Z - normal: Finish spawn build-worker
+2022-12-09T10:51:00.307Z - normal: Start init build-worker
+2022-12-09T10:51:01.823Z - normal: Finish init build-worker
+2022-12-09T10:51:01.823Z - normal: Start build-assets in worker
+2022-12-09T10:51:10.274Z - warn: Original texture "db://assets/textures/animation/Pop up Effect.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Pop up Effect.json", it will still be retained.
+2022-12-09T10:51:10.274Z - warn: Original texture "db://assets/textures/animation/Vong Quay May Man.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Vong Quay May Man.json", it will still be retained.
+2022-12-09T10:51:10.275Z - warn: Original texture "db://assets/textures/animation/Button.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Button.json", it will still be retained.
+2022-12-09T10:51:10.275Z - warn: Original texture "db://assets/textures/animation/Confetti.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Confetti.json", it will still be retained.
+2022-12-09T10:51:10.275Z - warn: db://assets/textures/common/spin-bg.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.276Z - warn: db://assets/textures/common/bg.jpg has not been packed into AutoAtlas.
+2022-12-09T10:51:10.276Z - warn: db://assets/textures/Popup/common/popup-fx.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.276Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_day.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.277Z - warn: db://assets/textures/Pages/PageHome/details_night.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.277Z - warn: db://assets/textures/Pages/PageHome/details_day.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.277Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_night.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.277Z - warn: db://assets/textures/Pages/PageHome/top_cover.png has not been packed into AutoAtlas.
+2022-12-09T10:51:10.465Z - normal: Finish build-assets in worker
+2022-12-09T10:51:10.479Z - normal: Finish building assets
+2022-12-09T10:51:10.501Z - normal: Start building plugin scripts
+2022-12-09T10:51:10.546Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-09T10:51:10.551Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-09T10:51:10.715Z - normal: Built to "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile" successfully
+2022-12-09T11:03:13.522Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "agreements": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "d054a05c-c593-4407-b24d-53c716205812"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "d054a05c-c593-4407-b24d-53c716205812",
+  "template": "link",
+  "title": "viettel-post-noel-2022",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "ac5f21bf-bed3-47",
+  "zipCompressJs": true,
+  "project": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectName": "viettel-post-noel-2022",
+  "debugBuildWorker": false
+}
+2022-12-09T11:03:13.525Z - normal: Building /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:03:13.525Z - normal: Destination /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile
+2022-12-09T11:03:13.529Z - normal: Delete /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile/**/*
+2022-12-09T11:03:13.579Z - normal: Building 3D physics modules...
+2022-12-09T11:03:20.019Z - normal: Compiling /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:03:29.956Z - normal: Start building assets
+2022-12-09T11:03:29.956Z - normal: Start spawn build-worker
+2022-12-09T11:03:30.373Z - normal: Finish spawn build-worker
+2022-12-09T11:03:30.373Z - normal: Start init build-worker
+2022-12-09T11:03:32.199Z - normal: Finish init build-worker
+2022-12-09T11:03:32.200Z - normal: Start build-assets in worker
+2022-12-09T11:03:34.297Z - warn: Original texture "db://assets/textures/animation/Pop up Effect.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Pop up Effect.json", it will still be retained.
+2022-12-09T11:03:34.302Z - warn: Original texture "db://assets/textures/animation/Vong Quay May Man.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Vong Quay May Man.json", it will still be retained.
+2022-12-09T11:03:34.303Z - warn: Original texture "db://assets/textures/animation/Button.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Button.json", it will still be retained.
+2022-12-09T11:03:34.303Z - warn: Original texture "db://assets/textures/animation/Confetti.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Confetti.json", it will still be retained.
+2022-12-09T11:03:34.304Z - warn: db://assets/textures/common/spin-bg.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.304Z - warn: db://assets/textures/common/bg.jpg has not been packed into AutoAtlas.
+2022-12-09T11:03:34.304Z - warn: db://assets/textures/Popup/common/popup-fx.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.305Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_day.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.305Z - warn: db://assets/textures/Pages/PageHome/details_night.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.305Z - warn: db://assets/textures/Pages/PageHome/details_day.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.305Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_night.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.305Z - warn: db://assets/textures/Pages/PageHome/top_cover.png has not been packed into AutoAtlas.
+2022-12-09T11:03:34.547Z - normal: Finish build-assets in worker
+2022-12-09T11:03:34.581Z - normal: Finish building assets
+2022-12-09T11:03:34.603Z - normal: Start building plugin scripts
+2022-12-09T11:03:34.651Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-09T11:03:34.655Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-09T11:03:34.909Z - normal: Built to "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile" successfully
+2022-12-09T11:05:01.689Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "agreements": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "d054a05c-c593-4407-b24d-53c716205812"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "d054a05c-c593-4407-b24d-53c716205812",
+  "template": "link",
+  "title": "viettel-post-noel-2022",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "ac5f21bf-bed3-47",
+  "zipCompressJs": true,
+  "project": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectName": "viettel-post-noel-2022",
+  "debugBuildWorker": false
+}
+2022-12-09T11:05:01.692Z - normal: Building /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:05:01.692Z - normal: Destination /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile
+2022-12-09T11:05:01.697Z - normal: Delete /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile/**/*
+2022-12-09T11:05:01.755Z - normal: Building 3D physics modules...
+2022-12-09T11:05:07.840Z - normal: Compiling /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:05:17.778Z - normal: Start building assets
+2022-12-09T11:05:17.779Z - normal: Start spawn build-worker
+2022-12-09T11:05:18.187Z - normal: Finish spawn build-worker
+2022-12-09T11:05:18.188Z - normal: Start init build-worker
+2022-12-09T11:05:19.823Z - normal: Finish init build-worker
+2022-12-09T11:05:19.823Z - normal: Start build-assets in worker
+2022-12-09T11:05:21.902Z - warn: Original texture "db://assets/textures/animation/Pop up Effect.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Pop up Effect.json", it will still be retained.
+2022-12-09T11:05:21.903Z - warn: Original texture "db://assets/textures/animation/Vong Quay May Man.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Vong Quay May Man.json", it will still be retained.
+2022-12-09T11:05:21.904Z - warn: Original texture "db://assets/textures/animation/Button.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Button.json", it will still be retained.
+2022-12-09T11:05:21.905Z - warn: Original texture "db://assets/textures/animation/Confetti.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Confetti.json", it will still be retained.
+2022-12-09T11:05:21.906Z - warn: db://assets/textures/common/spin-bg.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.906Z - warn: db://assets/textures/common/bg.jpg has not been packed into AutoAtlas.
+2022-12-09T11:05:21.906Z - warn: db://assets/textures/Popup/common/popup-fx.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.906Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_day.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.907Z - warn: db://assets/textures/Pages/PageHome/details_night.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.907Z - warn: db://assets/textures/Pages/PageHome/details_day.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.907Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_night.png has not been packed into AutoAtlas.
+2022-12-09T11:05:21.908Z - warn: db://assets/textures/Pages/PageHome/top_cover.png has not been packed into AutoAtlas.
+2022-12-09T11:05:22.136Z - normal: Finish build-assets in worker
+2022-12-09T11:05:22.167Z - normal: Finish building assets
+2022-12-09T11:05:22.190Z - normal: Start building plugin scripts
+2022-12-09T11:05:22.241Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-09T11:05:22.246Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-09T11:05:22.395Z - normal: Built to "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile" successfully
+2022-12-09T11:07:44.418Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "agreements": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "d054a05c-c593-4407-b24d-53c716205812"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "d054a05c-c593-4407-b24d-53c716205812",
+  "template": "link",
+  "title": "viettel-post-noel-2022",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "ac5f21bf-bed3-47",
+  "zipCompressJs": true,
+  "project": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectName": "viettel-post-noel-2022",
+  "debugBuildWorker": false
+}
+2022-12-09T11:07:44.421Z - normal: Building /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:07:44.421Z - normal: Destination /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile
+2022-12-09T11:07:44.425Z - normal: Delete /Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile/**/*
+2022-12-09T11:07:44.464Z - normal: Building 3D physics modules...
+2022-12-09T11:07:50.039Z - normal: Compiling /Users/swift/Documents/GitHub/viettel-post-noel-2022
+2022-12-09T11:07:59.736Z - normal: Start building assets
+2022-12-09T11:07:59.736Z - normal: Start spawn build-worker
+2022-12-09T11:08:00.160Z - normal: Finish spawn build-worker
+2022-12-09T11:08:00.160Z - normal: Start init build-worker
+2022-12-09T11:08:01.633Z - normal: Finish init build-worker
+2022-12-09T11:08:01.633Z - normal: Start build-assets in worker
+2022-12-09T11:08:03.477Z - warn: Original texture "db://assets/textures/animation/Pop up Effect.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Pop up Effect.json", it will still be retained.
+2022-12-09T11:08:03.478Z - warn: Original texture "db://assets/textures/animation/Vong Quay May Man.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Vong Quay May Man.json", it will still be retained.
+2022-12-09T11:08:03.479Z - warn: Original texture "db://assets/textures/animation/Button.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Button.json", it will still be retained.
+2022-12-09T11:08:03.479Z - warn: Original texture "db://assets/textures/animation/Confetti.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Confetti.json", it will still be retained.
+2022-12-09T11:08:03.480Z - warn: db://assets/textures/common/spin-bg.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.480Z - warn: db://assets/textures/common/bg.jpg has not been packed into AutoAtlas.
+2022-12-09T11:08:03.480Z - warn: db://assets/textures/Popup/common/popup-fx.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.481Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_day.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.481Z - warn: db://assets/textures/Pages/PageHome/details_night.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.481Z - warn: db://assets/textures/Pages/PageHome/details_day.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.482Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_night.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.482Z - warn: db://assets/textures/Pages/PageHome/top_cover.png has not been packed into AutoAtlas.
+2022-12-09T11:08:03.694Z - normal: Finish build-assets in worker
+2022-12-09T11:08:03.709Z - normal: Finish building assets
+2022-12-09T11:08:03.724Z - normal: Start building plugin scripts
+2022-12-09T11:08:03.764Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-09T11:08:03.768Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-09T11:08:03.888Z - normal: Built to "/Users/swift/Documents/GitHub/viettel-post-noel-2022/build/web-mobile" successfully
+2022-12-09T11:15:20.228Z - warn: Should not specify class name Page for Component which defines in project.
+2022-12-09T11:15:20.349Z - warn: this._super declared in 'PopupBuyTurn.onStateChange' but no super method defined
+2022-12-09T11:15:20.349Z - warn: this._super declared in 'PopupBuyTurn.onEnable' but no super method defined
+2022-12-09T11:15:20.350Z - warn: this._super declared in 'PopupBuyTurn.onDisable' but no super method defined
+2022-12-09T11:15:20.350Z - warn: this._super declared in 'PopupBuyTurn.onDestroy' but no super method defined
+2022-12-09T11:15:20.350Z - warn: The type of "PopupBuyTurn.placeHolder" must be cc.String, not String.
+2022-12-09T11:15:20.350Z - warn: this._super declared in 'PageBuyTurn.onStateChange' but no super method defined
+2022-12-09T11:15:20.350Z - warn: this._super declared in 'PageBuyTurn.onDestroy' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'PageCollections.onStateChange' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'PageCollections.onDestroy' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'PageGuiTietKiem.onStateChange' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'PageGuiTietKiem.onEnable' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'PageGuiTietKiem.onDestroy' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'CompQuestsContainer.onEnable' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'CompQuestsContainer.onDisable' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'CompQuestsContainer.onDestroy' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'RewardPopupsMgr.onStateChange' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'RewardPopupsMgr.onEnable' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'RewardPopupsMgr.onDisable' but no super method defined
+2022-12-09T11:15:20.351Z - warn: this._super declared in 'RewardPopupsMgr.onDestroy' but no super method defined
+2022-12-09T11:15:20.351Z - warn: The type of "PopupDailyLogin.coinAndTicketTxtPlaceholder" must be cc.String, not String.
+2022-12-09T11:15:20.351Z - warn: The type of "PopupDailyLogin.descriptionTxtPlaceholder" must be cc.String, not String.
+2022-12-09T11:15:20.351Z - warn: The type of "PathFollowObject.delay" must be cc.Float or cc.Integer, not Number.
+2022-12-09T11:15:20.351Z - warn: The type of "GiftsMgr.numbOfGifts" must be cc.Float or cc.Integer, not Number.
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageHome.onEnable' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageHome.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PopupReward.onStateChange' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PopupReward.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageInventory.onStateChange' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageInventory.onEnable' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageInventory.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageLeaderboard.onStateChange' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageLeaderboard.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageMgr.onEnable' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageMgr.onDisable' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageMgr.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PagePaynow.onStateChange' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PagePaynow.onEnable' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PagePaynow.onDestroy' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageRules.onStateChange' but no super method defined
+2022-12-09T11:15:20.352Z - warn: this._super declared in 'PageRules.onEnable' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageRules.onDisable' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageRules.onDestroy' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageSavenow.onStateChange' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageSavenow.onEnable' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageSavenow.onDestroy' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageThamQuan.onStateChange' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageThamQuan.onEnable' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageThamQuan.onDestroy' but no super method defined
+2022-12-09T11:15:20.353Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onEnable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDisable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDestroy' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onStateChange' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDisable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDestroy' but no super method defined
+2022-12-09T11:15:20.354Z - warn: The type of "PopupBuyWeeklyTicketSuccess.descriptionPlaceHolder" must be cc.String, not String.
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupError.onDestroy' but no super method defined
+2022-12-09T11:15:20.354Z - warn: The type of "PopupError.descriptionTxt" must be cc.String, not String.
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupErrorReload.onStateChange' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupErrorReload.onEnable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupErrorReload.onDisable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupErrorReload.onDestroy' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupLeaderboard.onStateChange' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupLeaderboard.onEnable' but no super method defined
+2022-12-09T11:15:20.354Z - warn: this._super declared in 'PopupLeaderboard.onDisable' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupLeaderboard.onDestroy' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupManager.onEnable' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupManager.onDisable' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupManager.onDestroy' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupTutorial.onStateChange' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupTutorial.onDisable' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'PopupTutorial.onDestroy' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'ListView.onStateChange' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'ListView.onDestroy' but no super method defined
+2022-12-09T11:15:20.355Z - warn: The type of "ListView.api" must be cc.String, not String.
+2022-12-09T11:15:20.355Z - warn: The type of "ListView.isPage" must be cc.Boolean, not Boolean.
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'Tabs.onStateChange' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'Tabs.onDisable' but no super method defined
+2022-12-09T11:15:20.355Z - warn: this._super declared in 'Tabs.onDestroy' but no super method defined
+2022-12-09T11:15:20.355Z - warn: The type of "CompAvatar.customSize" must be cc.Float or cc.Integer, not Number.
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompCollectionContainer.onStateChange' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompCollectionContainer.onEnable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompCollectionContainer.onDisable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompCollectionContainer.onDestroy' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompHeader.onStateChange' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompHeader.onEnable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompHeader.onDisable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'CompHeader.onDestroy' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'InteractDetect.onStateChange' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'InteractDetect.onEnable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'InteractDetect.onDisable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'InteractDetect.onDestroy' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'LoginProgressBar.onEnable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'LoginProgressBar.onDisable' but no super method defined
+2022-12-09T11:15:20.356Z - warn: this._super declared in 'LoginProgressBar.onDestroy' but no super method defined
+2022-12-09T11:15:23.537Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T11:15:23.538Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T11:15:23.787Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T11:15:23.787Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T11:15:23.787Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T11:15:24.287Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.287Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.288Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.289Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.290Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.292Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.292Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.294Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.295Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.296Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T11:15:24.297Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:26.997Z - warn: Should not specify class name Page for Component which defines in project.
+2022-12-09T16:53:27.011Z - warn: this._super declared in 'PopupBuyTurn.onStateChange' but no super method defined
+2022-12-09T16:53:27.011Z - warn: this._super declared in 'PopupBuyTurn.onEnable' but no super method defined
+2022-12-09T16:53:27.011Z - warn: this._super declared in 'PopupBuyTurn.onDisable' but no super method defined
+2022-12-09T16:53:27.011Z - warn: this._super declared in 'PopupBuyTurn.onDestroy' but no super method defined
+2022-12-09T16:53:27.011Z - warn: The type of "PopupBuyTurn.placeHolder" must be cc.String, not String.
+2022-12-09T16:53:27.012Z - warn: this._super declared in 'PageBuyTurn.onStateChange' but no super method defined
+2022-12-09T16:53:27.012Z - warn: this._super declared in 'PageBuyTurn.onDestroy' but no super method defined
+2022-12-09T16:53:27.013Z - warn: this._super declared in 'PageCollections.onStateChange' but no super method defined
+2022-12-09T16:53:27.013Z - warn: this._super declared in 'PageCollections.onDestroy' but no super method defined
+2022-12-09T16:53:27.013Z - warn: this._super declared in 'PageGuiTietKiem.onStateChange' but no super method defined
+2022-12-09T16:53:27.014Z - warn: this._super declared in 'PageGuiTietKiem.onEnable' but no super method defined
+2022-12-09T16:53:27.014Z - warn: this._super declared in 'PageGuiTietKiem.onDestroy' but no super method defined
+2022-12-09T16:53:27.025Z - warn: this._super declared in 'CompQuestsContainer.onEnable' but no super method defined
+2022-12-09T16:53:27.025Z - warn: this._super declared in 'CompQuestsContainer.onDisable' but no super method defined
+2022-12-09T16:53:27.025Z - warn: this._super declared in 'CompQuestsContainer.onDestroy' but no super method defined
+2022-12-09T16:53:27.027Z - warn: this._super declared in 'RewardPopupsMgr.onStateChange' but no super method defined
+2022-12-09T16:53:27.027Z - warn: this._super declared in 'RewardPopupsMgr.onEnable' but no super method defined
+2022-12-09T16:53:27.027Z - warn: this._super declared in 'RewardPopupsMgr.onDisable' but no super method defined
+2022-12-09T16:53:27.027Z - warn: this._super declared in 'RewardPopupsMgr.onDestroy' but no super method defined
+2022-12-09T16:53:27.027Z - warn: The type of "PopupDailyLogin.coinAndTicketTxtPlaceholder" must be cc.String, not String.
+2022-12-09T16:53:27.027Z - warn: The type of "PopupDailyLogin.descriptionTxtPlaceholder" must be cc.String, not String.
+2022-12-09T16:53:27.033Z - warn: The type of "PathFollowObject.delay" must be cc.Float or cc.Integer, not Number.
+2022-12-09T16:53:27.034Z - warn: The type of "GiftsMgr.numbOfGifts" must be cc.Float or cc.Integer, not Number.
+2022-12-09T16:53:27.034Z - warn: this._super declared in 'PageHome.onEnable' but no super method defined
+2022-12-09T16:53:27.034Z - warn: this._super declared in 'PageHome.onDestroy' but no super method defined
+2022-12-09T16:53:27.037Z - warn: this._super declared in 'PopupReward.onStateChange' but no super method defined
+2022-12-09T16:53:27.037Z - warn: this._super declared in 'PopupReward.onDestroy' but no super method defined
+2022-12-09T16:53:27.037Z - warn: this._super declared in 'PageInventory.onStateChange' but no super method defined
+2022-12-09T16:53:27.037Z - warn: this._super declared in 'PageInventory.onEnable' but no super method defined
+2022-12-09T16:53:27.037Z - warn: this._super declared in 'PageInventory.onDestroy' but no super method defined
+2022-12-09T16:53:27.038Z - warn: this._super declared in 'PageLeaderboard.onStateChange' but no super method defined
+2022-12-09T16:53:27.038Z - warn: this._super declared in 'PageLeaderboard.onDestroy' but no super method defined
+2022-12-09T16:53:27.039Z - warn: this._super declared in 'PageMgr.onEnable' but no super method defined
+2022-12-09T16:53:27.039Z - warn: this._super declared in 'PageMgr.onDisable' but no super method defined
+2022-12-09T16:53:27.039Z - warn: this._super declared in 'PageMgr.onDestroy' but no super method defined
+2022-12-09T16:53:27.040Z - warn: this._super declared in 'PagePaynow.onStateChange' but no super method defined
+2022-12-09T16:53:27.040Z - warn: this._super declared in 'PagePaynow.onEnable' but no super method defined
+2022-12-09T16:53:27.040Z - warn: this._super declared in 'PagePaynow.onDestroy' but no super method defined
+2022-12-09T16:53:27.041Z - warn: this._super declared in 'PageRules.onStateChange' but no super method defined
+2022-12-09T16:53:27.041Z - warn: this._super declared in 'PageRules.onEnable' but no super method defined
+2022-12-09T16:53:27.041Z - warn: this._super declared in 'PageRules.onDisable' but no super method defined
+2022-12-09T16:53:27.041Z - warn: this._super declared in 'PageRules.onDestroy' but no super method defined
+2022-12-09T16:53:27.042Z - warn: this._super declared in 'PageSavenow.onStateChange' but no super method defined
+2022-12-09T16:53:27.042Z - warn: this._super declared in 'PageSavenow.onEnable' but no super method defined
+2022-12-09T16:53:27.042Z - warn: this._super declared in 'PageSavenow.onDestroy' but no super method defined
+2022-12-09T16:53:27.042Z - warn: this._super declared in 'PageThamQuan.onStateChange' but no super method defined
+2022-12-09T16:53:27.042Z - warn: this._super declared in 'PageThamQuan.onEnable' but no super method defined
+2022-12-09T16:53:27.043Z - warn: this._super declared in 'PageThamQuan.onDestroy' but no super method defined
+2022-12-09T16:53:27.044Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onEnable' but no super method defined
+2022-12-09T16:53:27.044Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDisable' but no super method defined
+2022-12-09T16:53:27.044Z - warn: this._super declared in 'PageWeeklyPrizeHistory.onDestroy' but no super method defined
+2022-12-09T16:53:27.045Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onStateChange' but no super method defined
+2022-12-09T16:53:27.045Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDisable' but no super method defined
+2022-12-09T16:53:27.045Z - warn: this._super declared in 'PopupBuyWeeklyTicket.onDestroy' but no super method defined
+2022-12-09T16:53:27.046Z - warn: The type of "PopupBuyWeeklyTicketSuccess.descriptionPlaceHolder" must be cc.String, not String.
+2022-12-09T16:53:27.048Z - warn: this._super declared in 'PopupError.onDestroy' but no super method defined
+2022-12-09T16:53:27.049Z - warn: The type of "PopupError.descriptionTxt" must be cc.String, not String.
+2022-12-09T16:53:27.049Z - warn: this._super declared in 'PopupErrorReload.onStateChange' but no super method defined
+2022-12-09T16:53:27.049Z - warn: this._super declared in 'PopupErrorReload.onEnable' but no super method defined
+2022-12-09T16:53:27.049Z - warn: this._super declared in 'PopupErrorReload.onDisable' but no super method defined
+2022-12-09T16:53:27.049Z - warn: this._super declared in 'PopupErrorReload.onDestroy' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupLeaderboard.onStateChange' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupLeaderboard.onEnable' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupLeaderboard.onDisable' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupLeaderboard.onDestroy' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupManager.onEnable' but no super method defined
+2022-12-09T16:53:27.052Z - warn: this._super declared in 'PopupManager.onDisable' but no super method defined
+2022-12-09T16:53:27.053Z - warn: this._super declared in 'PopupManager.onDestroy' but no super method defined
+2022-12-09T16:53:27.055Z - warn: this._super declared in 'PopupTutorial.onStateChange' but no super method defined
+2022-12-09T16:53:27.055Z - warn: this._super declared in 'PopupTutorial.onDisable' but no super method defined
+2022-12-09T16:53:27.055Z - warn: this._super declared in 'PopupTutorial.onDestroy' but no super method defined
+2022-12-09T16:53:27.060Z - warn: this._super declared in 'ListView.onStateChange' but no super method defined
+2022-12-09T16:53:27.060Z - warn: this._super declared in 'ListView.onDestroy' but no super method defined
+2022-12-09T16:53:27.060Z - warn: The type of "ListView.api" must be cc.String, not String.
+2022-12-09T16:53:27.060Z - warn: The type of "ListView.isPage" must be cc.Boolean, not Boolean.
+2022-12-09T16:53:27.062Z - warn: this._super declared in 'Tabs.onStateChange' but no super method defined
+2022-12-09T16:53:27.062Z - warn: this._super declared in 'Tabs.onDisable' but no super method defined
+2022-12-09T16:53:27.062Z - warn: this._super declared in 'Tabs.onDestroy' but no super method defined
+2022-12-09T16:53:27.063Z - warn: The type of "CompAvatar.customSize" must be cc.Float or cc.Integer, not Number.
+2022-12-09T16:53:27.064Z - warn: this._super declared in 'CompCollectionContainer.onStateChange' but no super method defined
+2022-12-09T16:53:27.064Z - warn: this._super declared in 'CompCollectionContainer.onEnable' but no super method defined
+2022-12-09T16:53:27.064Z - warn: this._super declared in 'CompCollectionContainer.onDisable' but no super method defined
+2022-12-09T16:53:27.064Z - warn: this._super declared in 'CompCollectionContainer.onDestroy' but no super method defined
+2022-12-09T16:53:27.065Z - warn: this._super declared in 'CompHeader.onStateChange' but no super method defined
+2022-12-09T16:53:27.065Z - warn: this._super declared in 'CompHeader.onEnable' but no super method defined
+2022-12-09T16:53:27.065Z - warn: this._super declared in 'CompHeader.onDisable' but no super method defined
+2022-12-09T16:53:27.065Z - warn: this._super declared in 'CompHeader.onDestroy' but no super method defined
+2022-12-09T16:53:27.068Z - warn: this._super declared in 'InteractDetect.onStateChange' but no super method defined
+2022-12-09T16:53:27.068Z - warn: this._super declared in 'InteractDetect.onEnable' but no super method defined
+2022-12-09T16:53:27.068Z - warn: this._super declared in 'InteractDetect.onDisable' but no super method defined
+2022-12-09T16:53:27.068Z - warn: this._super declared in 'InteractDetect.onDestroy' but no super method defined
+2022-12-09T16:53:27.069Z - warn: this._super declared in 'LoginProgressBar.onEnable' but no super method defined
+2022-12-09T16:53:27.069Z - warn: this._super declared in 'LoginProgressBar.onDisable' but no super method defined
+2022-12-09T16:53:27.069Z - warn: this._super declared in 'LoginProgressBar.onDestroy' but no super method defined
+2022-12-09T16:53:28.935Z - warn: Script attached to "Container" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/Container"
+Script UUID: "5eea5806-b13d-4814-b20f-3a24df58bb50"
+Class ID: "5eea5gGsT1IFLIPOiTfWLtQ"
+
+2022-12-09T16:53:28.936Z - warn: Script attached to "gift" is missing or invalid. Detailed information:
+Node path: "GiftsContainer/gift"
+Script UUID: "7aa14988-643e-4400-8d86-00e77fd900f7"
+Class ID: "7aa14mIZD5EAI2GAOd/2QD3"
+
+2022-12-09T16:53:29.214Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift/image"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T16:53:29.215Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/gift"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "94a0bf84-f89a-47be-a4c8-a141e64bd492"
+
+2022-12-09T16:53:29.215Z - warn: The Asset used by component "cc.Sprite" in prefab "GiftsContainer.prefab" is missing. Detailed information:
+Node path: "GiftsContainer/top-cover"
+Asset url: "db://assets/prefabs/GiftsContainer.prefab"
+Missing uuid: "6a0b94d4-8741-4e84-800e-fb1f76607c01"
+
+2022-12-09T16:53:29.661Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.661Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.662Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.663Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.663Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.664Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.667Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.668Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.669Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.671Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T16:53:29.672Z - warn: The Asset used by component "cc.Sprite" in prefab "CompQuestsContainer.prefab" is missing. Detailed information:
+Node path: "CompQuestsContainer/Scroll View/Mask/Content/CompQuest copy/quest-item-bg"
+Asset url: "db://assets/prefabs/Component/CompQuestsContainer.prefab"
+Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
+
+2022-12-09T17:05:19.978Z - info: shutdown preview server

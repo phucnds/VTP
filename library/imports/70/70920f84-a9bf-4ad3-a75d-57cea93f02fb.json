@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-bubble-light",
+    "texture": "e38ae8c9-74da-4693-a338-2456d6f36274",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      722,
+      76
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      722,
+      76
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

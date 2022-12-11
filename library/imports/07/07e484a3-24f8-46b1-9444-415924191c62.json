@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "SPIN BTN",
+    "texture": "c737e751-1932-4489-9d96-6a0bb12729b1",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      1789,
+      463
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      1796,
+      468
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

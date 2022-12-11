@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tien-mat-content",
+    "texture": "c76bcfaa-11d9-480a-8805-c0efdc6f0416",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      599,
+      710
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      599,
+      710
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

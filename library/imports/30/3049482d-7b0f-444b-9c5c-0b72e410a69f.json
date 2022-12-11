@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "MMK reward",
+    "texture": "7c1f263d-062d-4bda-a50c-b198fcdda065",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      249,
+      247
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      251,
+      249
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-leaderboard",
+    "texture": "0f26fee1-058c-4ead-8ddf-f4e8337222f3",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      340,
+      174
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      342,
+      177
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

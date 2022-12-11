@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ticket-and-coin-bunch",
+    "texture": "b829ca57-3bad-43ab-adac-acbddde13582",
+    "atlas": "",
+    "rect": [
+      11,
+      21,
+      349,
+      184
+    ],
+    "offset": [
+      4.5,
+      -8.5
+    ],
+    "originalSize": [
+      362,
+      209
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

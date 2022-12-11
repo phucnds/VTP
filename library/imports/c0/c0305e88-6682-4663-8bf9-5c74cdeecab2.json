@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-noti",
+    "texture": "c88149fe-07d8-4dea-a528-b746b9626695",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      410,
+      64
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      412,
+      67
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

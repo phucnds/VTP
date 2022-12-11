@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "try your best luck",
+    "texture": "5a051203-c4c8-4448-b965-5846a47fa09f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      476,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      476,
+      130
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

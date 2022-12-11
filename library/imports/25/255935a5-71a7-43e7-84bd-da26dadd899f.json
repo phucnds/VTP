@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Curves 4 copy 7",
+    "texture": "73c278e3-59d6-4d16-b153-536d3cac8073",
+    "atlas": "",
+    "rect": [
+      184,
+      550,
+      111,
+      135
+    ],
+    "offset": [
+      -294,
+      342.5
+    ],
+    "originalSize": [
+      1067,
+      1920
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

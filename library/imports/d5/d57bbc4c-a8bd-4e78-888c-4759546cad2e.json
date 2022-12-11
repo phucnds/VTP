@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Worker2",
+    "texture": "1ae07e49-51d3-4270-8005-e6e905074e53",
+    "atlas": "",
+    "rect": [
+      21,
+      16,
+      130,
+      233
+    ],
+    "offset": [
+      3,
+      -3.5
+    ],
+    "originalSize": [
+      166,
+      258
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

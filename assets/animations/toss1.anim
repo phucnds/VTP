@@ -1,0 +1,103 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "toss1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 60,
+  "speed": 0.45,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "y": [
+        {
+          "frame": 0,
+          "value": -49.71
+        },
+        {
+          "frame": 0.2833333333333333,
+          "value": 190
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 198.842
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": 190
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": 0
+        },
+        {
+          "frame": 1,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.2,
+            "y": 1.2
+          }
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -45
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": 45
+        },
+        {
+          "frame": 1,
+          "value": 45
+        }
+      ],
+      "x": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.8833333333333333,
+          "value": -10
+        },
+        {
+          "frame": 1,
+          "value": -10
+        }
+      ]
+    }
+  },
+  "events": []
+}

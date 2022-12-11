@@ -1,0 +1,62 @@
+
+SPIN BTN.png
+size: 1796,468
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BTn MY
+  rotate: true
+  xy: 225, 22
+  size: 444, 219
+  orig: 444, 219
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 667, 3
+  size: 293, 99
+  orig: 293, 99
+  offset: 0, 0
+  index: -1
+Spin Base
+  rotate: false
+  xy: 1275, 2
+  size: 495, 215
+  orig: 495, 215
+  offset: 0, 0
+  index: -1
+Spin Btn
+  rotate: true
+  xy: 2, 20
+  size: 446, 221
+  orig: 446, 221
+  offset: 0, 0
+  index: -1
+Spin Btn Burmese
+  rotate: true
+  xy: 446, 22
+  size: 444, 219
+  orig: 444, 219
+  offset: 0, 0
+  index: -1
+Stop
+  rotate: false
+  xy: 962, 4
+  size: 311, 98
+  orig: 311, 98
+  offset: 0, 0
+  index: -1
+Wave
+  rotate: false
+  xy: 667, 104
+  size: 590, 362
+  orig: 590, 362
+  offset: 0, 0
+  index: -1
+Wave1
+  rotate: false
+  xy: 1275, 219
+  size: 519, 247
+  orig: 519, 247
+  offset: 0, 0
+  index: -1

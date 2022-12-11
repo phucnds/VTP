@@ -1,0 +1,145 @@
+{
+  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "actualPlatform": "web-mobile",
+  "mtimes": {
+    "d648381e-c721-4abe-ab33-67fb46eaa3bd": {
+      "assetMtime": 1670578673449,
+      "metaMtime": 1670578749854
+    },
+    "0273f628-1bdb-444a-b8e3-1a48d2a67d26": {
+      "assetMtime": 1670578673452,
+      "metaMtime": 1670578749879
+    },
+    "09bd5a47-8040-4c42-9451-3a26a6209b75": {
+      "assetMtime": 1670578673452,
+      "metaMtime": 1670578749879
+    },
+    "2ceff490-1b57-4217-b59a-bbf7423aeb1c": {
+      "assetMtime": 1670578673450,
+      "metaMtime": 1670578749865
+    },
+    "6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757": {
+      "assetMtime": 1670578673450,
+      "metaMtime": 1670578749865
+    },
+    "7e5c5576-a5c1-47f6-b7d9-1a8ad6ca9909": {
+      "assetMtime": 1670578673449,
+      "metaMtime": 1670578749860
+    },
+    "ff6e558a-f031-4e1a-9030-1eab7111f277": {
+      "assetMtime": 1670578673449,
+      "metaMtime": 1670578749860
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.1",
+    "uuid": "d648381e-c721-4abe-ab33-67fb46eaa3bd",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": true,
+    "packable": false,
+    "premultiplyAlpha": false,
+    "filterMode": "bilinear",
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "popup-buy-weekly-ticket",
+            "uuid": "0273f628-1bdb-444a-b8e3-1a48d2a67d26",
+            "textureUuid": "09bd5a47-8040-4c42-9451-3a26a6209b75",
+            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_0.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 615,
+              "height": 553,
+              "rotatedWidth": 615,
+              "rotatedHeight": 553
+            },
+            "rawWidth": 683,
+            "rawHeight": 563,
+            "width": 621,
+            "height": 559,
+            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/09/09bd5a47-8040-4c42-9451-3a26a6209b75.png",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 621,
+            "rotatedHeight": 559
+          },
+          {
+            "name": "popup-buy-weekly-ticket-end-event",
+            "uuid": "2ceff490-1b57-4217-b59a-bbf7423aeb1c",
+            "textureUuid": "6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757",
+            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_1.png",
+            "trim": {
+              "x": 3,
+              "y": 562,
+              "width": 598,
+              "height": 214,
+              "rotatedWidth": 598,
+              "rotatedHeight": 214
+            },
+            "rawWidth": 598,
+            "rawHeight": 215,
+            "width": 604,
+            "height": 220,
+            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/6a/6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757.png",
+            "x": 0,
+            "y": 559,
+            "rotatedWidth": 604,
+            "rotatedHeight": 220
+          },
+          {
+            "name": "popup-buy-weekly-ticket-buy-phase-timeout",
+            "uuid": "7e5c5576-a5c1-47f6-b7d9-1a8ad6ca9909",
+            "textureUuid": "ff6e558a-f031-4e1a-9030-1eab7111f277",
+            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_2.png",
+            "trim": {
+              "x": 3,
+              "y": 782,
+              "width": 503,
+              "height": 233,
+              "rotatedWidth": 503,
+              "rotatedHeight": 233
+            },
+            "rawWidth": 504,
+            "rawHeight": 234,
+            "width": 509,
+            "height": 239,
+            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/ff/ff6e558a-f031-4e1a-9030-1eab7111f277.png",
+            "x": 0,
+            "y": 779,
+            "rotatedWidth": 509,
+            "rotatedHeight": 239
+          }
+        ],
+        "width": 621,
+        "height": 1018,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

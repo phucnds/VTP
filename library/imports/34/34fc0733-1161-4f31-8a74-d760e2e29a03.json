@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bgGameplay_day",
+    "texture": "d2b98392-edbd-4537-8089-1704bd183623",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1224,
+      1628
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1224,
+      1628
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

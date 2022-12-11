@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "noti-txt",
+    "texture": "8989700f-7c6f-4096-bdbe-c3a52e59bba5",
+    "atlas": "",
+    "rect": [
+      25,
+      6,
+      601,
+      36
+    ],
+    "offset": [
+      12.5,
+      -3
+    ],
+    "originalSize": [
+      626,
+      42
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

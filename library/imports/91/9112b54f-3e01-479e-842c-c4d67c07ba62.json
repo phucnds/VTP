@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Vong Quay May Man.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nVong Quay May Man.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGame nang\n  rotate: false\n  xy: 2, 290\n  size: 357, 162\n  orig: 357, 162\n  offset: 0, 0\n  index: -1\nLight slide\n  rotate: false\n  xy: 2, 148\n  size: 312, 140\n  orig: 312, 140\n  offset: 0, 0\n  index: -1\nLogo\n  rotate: false\n  xy: 2, 2\n  size: 208, 144\n  orig: 208, 144\n  offset: 0, 0\n  index: -1\nStar 2\n  rotate: false\n  xy: 212, 29\n  size: 118, 117\n  orig: 118, 117\n  offset: 0, 0\n  index: -1\n"
+}

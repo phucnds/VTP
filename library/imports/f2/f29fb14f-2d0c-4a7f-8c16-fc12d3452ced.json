@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-weekly-winner",
+    "texture": "90839ce0-7648-4e56-88a8-fc43cb5c32d8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      750,
+      768
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      750,
+      768
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

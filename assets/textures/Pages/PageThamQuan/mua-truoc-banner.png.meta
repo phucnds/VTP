@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "1030be4b-d437-4b57-8b08-567e7a18b2bf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 601,
+  "height": 601,
+  "platformSettings": {},
+  "subMetas": {
+    "mua-truoc-banner": {
+      "ver": "1.0.4",
+      "uuid": "94899b1d-b40c-4c47-ac70-86538da8ffd4",
+      "rawTextureUuid": "1030be4b-d437-4b57-8b08-567e7a18b2bf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 600,
+      "height": 601,
+      "rawWidth": 601,
+      "rawHeight": 601,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

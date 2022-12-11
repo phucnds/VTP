@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b829ca57-3bad-43ab-adac-acbddde13582",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 362,
+  "height": 209,
+  "platformSettings": {},
+  "subMetas": {
+    "ticket-and-coin-bunch": {
+      "ver": "1.0.4",
+      "uuid": "a072950e-7c2e-42bc-8712-07c05e400518",
+      "rawTextureUuid": "b829ca57-3bad-43ab-adac-acbddde13582",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4.5,
+      "offsetY": -8.5,
+      "trimX": 11,
+      "trimY": 21,
+      "width": 349,
+      "height": 184,
+      "rawWidth": 362,
+      "rawHeight": 209,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

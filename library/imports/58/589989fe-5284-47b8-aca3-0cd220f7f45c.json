@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-title-mua-truoc",
+    "texture": "ef3fbd40-001f-4fdc-b641-71f138828bee",
+    "atlas": "",
+    "rect": [
+      56,
+      10,
+      462,
+      44
+    ],
+    "offset": [
+      2,
+      18.5
+    ],
+    "originalSize": [
+      570,
+      101
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

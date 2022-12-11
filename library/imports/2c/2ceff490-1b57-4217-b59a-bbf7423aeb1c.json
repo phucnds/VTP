@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-buy-weekly-ticket-end-event",
+    "texture": "6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      598,
+      214
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      598,
+      215
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

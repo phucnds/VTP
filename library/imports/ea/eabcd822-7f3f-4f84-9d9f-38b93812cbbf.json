@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Button.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nButton.png\nsize: 512,512\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nBtn Base\n  rotate: false\n  xy: 2, 132\n  size: 313, 127\n  orig: 313, 127\n  offset: 0, 0\n  index: -1\nBtn_\n  rotate: false\n  xy: 2, 2\n  size: 309, 128\n  orig: 309, 128\n  offset: 0, 0\n  index: -1\nLight slide\n  rotate: false\n  xy: 2, 261\n  size: 312, 140\n  orig: 312, 140\n  offset: 0, 0\n  index: -1\nStar 2\n  rotate: false\n  xy: 316, 284\n  size: 118, 117\n  orig: 118, 117\n  offset: 0, 0\n  index: -1\n"
+}

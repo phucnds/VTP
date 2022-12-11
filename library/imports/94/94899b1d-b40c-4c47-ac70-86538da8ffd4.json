@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mua-truoc-banner",
+    "texture": "1030be4b-d437-4b57-8b08-567e7a18b2bf",
+    "atlas": "",
+    "rect": [
+      1,
+      0,
+      600,
+      601
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      601,
+      601
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

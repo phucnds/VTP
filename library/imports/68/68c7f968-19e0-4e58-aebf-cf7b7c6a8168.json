@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Pop up Effect",
+    "texture": "5376a038-0a2a-48b7-96dc-1b18ed9c5319",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      516,
+      1017
+    ],
+    "offset": [
+      -251,
+      0.5
+    ],
+    "originalSize": [
+      1024,
+      1024
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

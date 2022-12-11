@@ -1,0 +1,131 @@
+
+VDS.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Game nang
+  rotate: false
+  xy: 679, 1460
+  size: 357, 162
+  orig: 357, 162
+  offset: 0, 0
+  index: -1
+Green money
+  rotate: false
+  xy: 310, 1493
+  size: 157, 129
+  orig: 157, 129
+  offset: 0, 0
+  index: -1
+Light dot
+  rotate: false
+  xy: 79, 1579
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+Light ef01
+  rotate: false
+  xy: 1426, 849
+  size: 291, 773
+  orig: 291, 773
+  offset: 0, 0
+  index: -1
+Light ef02
+  rotate: false
+  xy: 1719, 848
+  size: 130, 774
+  orig: 130, 774
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: false
+  xy: 469, 1478
+  size: 208, 144
+  orig: 208, 144
+  offset: 0, 0
+  index: -1
+Pop up
+  rotate: false
+  xy: 2, 744
+  size: 732, 714
+  orig: 732, 714
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 39, 1582
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+mock
+  rotate: false
+  xy: 736, 2
+  size: 731, 845
+  orig: 731, 845
+  offset: 0, 0
+  index: -1
+spark 01
+  rotate: false
+  xy: 24, 1602
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+spark 02
+  rotate: false
+  xy: 2, 1605
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+ticket 01
+  rotate: false
+  xy: 1038, 1448
+  size: 181, 174
+  orig: 181, 174
+  offset: 0, 0
+  index: -1
+ticket 02
+  rotate: false
+  xy: 1221, 1427
+  size: 203, 195
+  orig: 203, 195
+  offset: 0, 0
+  index: -1
+xu 1
+  rotate: false
+  xy: 188, 1510
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+xu 2
+  rotate: false
+  xy: 124, 1562
+  size: 62, 60
+  orig: 62, 60
+  offset: 0, 0
+  index: -1
+
+VDS2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 761, 12
+  size: 752, 1626
+  orig: 752, 1626
+  offset: 0, 0
+  index: -1
+popup vé vip
+  rotate: false
+  xy: 2, 2
+  size: 757, 1636
+  orig: 757, 1636
+  offset: 0, 0
+  index: -1

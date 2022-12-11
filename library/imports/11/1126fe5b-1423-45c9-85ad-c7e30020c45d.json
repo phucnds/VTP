@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Pop up Effect.atlas",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "\nPop up Effect.png\nsize: 1024,1024\nformat: RGBA8888\nfilter: Linear,Linear\nrepeat: none\nGreen money\n  rotate: false\n  xy: 295, 892\n  size: 157, 129\n  orig: 157, 129\n  offset: 0, 0\n  index: -1\nLight dot\n  rotate: false\n  xy: 2, 6\n  size: 43, 43\n  orig: 43, 43\n  offset: 0, 0\n  index: -1\nLight ef01\n  rotate: false\n  xy: 2, 248\n  size: 291, 773\n  orig: 291, 773\n  offset: 0, 0\n  index: -1\nLight ef02\n  rotate: false\n  xy: 390, 2\n  size: 130, 774\n  orig: 130, 774\n  offset: 0, 0\n  index: -1\nStar\n  rotate: false\n  xy: 47, 9\n  size: 38, 40\n  orig: 38, 40\n  offset: 0, 0\n  index: -1\nspark 01\n  rotate: false\n  xy: 87, 10\n  size: 13, 20\n  orig: 13, 20\n  offset: 0, 0\n  index: -1\nspark 02\n  rotate: false\n  xy: 87, 32\n  size: 20, 17\n  orig: 20, 17\n  offset: 0, 0\n  index: -1\nticket 01\n  rotate: false\n  xy: 207, 72\n  size: 181, 174\n  orig: 181, 174\n  offset: 0, 0\n  index: -1\nticket 02\n  rotate: false\n  xy: 2, 51\n  size: 203, 195\n  orig: 203, 195\n  offset: 0, 0\n  index: -1\nxu 1\n  rotate: false\n  xy: 295, 778\n  size: 120, 112\n  orig: 120, 112\n  offset: 0, 0\n  index: -1\nxu 2\n  rotate: false\n  xy: 207, 10\n  size: 62, 60\n  orig: 62, 60\n  offset: 0, 0\n  index: -1\n"
+}

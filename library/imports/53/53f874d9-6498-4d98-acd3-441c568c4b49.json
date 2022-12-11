@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon-noti-purple",
+    "texture": "f0a27d4d-aecb-48d4-a9a5-1c17f2184797",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      54
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      54
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

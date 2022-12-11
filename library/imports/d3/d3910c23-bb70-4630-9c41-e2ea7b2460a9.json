@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "reward-box-glowing",
+    "texture": "a660dee3-b5a8-421d-8b50-e991a9dda83f",
+    "atlas": "",
+    "rect": [
+      79,
+      84,
+      576,
+      505
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      740,
+      674
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

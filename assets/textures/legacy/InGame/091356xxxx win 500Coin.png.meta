@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "3742bf32-005e-43ac-a1b5-2bc85efc3414",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 575,
+  "height": 44,
+  "platformSettings": {},
+  "subMetas": {
+    "091356xxxx win 500Coin": {
+      "ver": "1.0.4",
+      "uuid": "bcef5270-1ea2-4af8-9bea-e71f8f651fb8",
+      "rawTextureUuid": "3742bf32-005e-43ac-a1b5-2bc85efc3414",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 573,
+      "height": 42,
+      "rawWidth": 575,
+      "rawHeight": 44,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

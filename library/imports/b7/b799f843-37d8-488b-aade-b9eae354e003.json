@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BG Contain",
+    "texture": "a1e158b7-6328-4702-a09f-4cca29c5a311",
+    "atlas": "",
+    "rect": [
+      1,
+      1,
+      903,
+      1673
+    ],
+    "offset": [
+      -0.5,
+      0.5
+    ],
+    "originalSize": [
+      906,
+      1676
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

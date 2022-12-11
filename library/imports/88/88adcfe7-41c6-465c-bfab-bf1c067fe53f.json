@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "paynow-content",
+    "texture": "39575a3f-8e18-47c1-8815-e8ae1623dac1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      603,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      603,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "popup-glow",
+    "texture": "2402667f-90a4-47e9-b9b6-ec414a814d2f",
+    "atlas": "",
+    "rect": [
+      15,
+      1,
+      415,
+      404
+    ],
+    "offset": [
+      -0.5,
+      7
+    ],
+    "originalSize": [
+      446,
+      420
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

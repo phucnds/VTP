@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "75978426-e52e-4751-892d-4bc45e4f4e49",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 140,
+  "height": 34,
+  "platformSettings": {},
+  "subMetas": {
+    "LOGO_ELOFUN": {
+      "ver": "1.0.4",
+      "uuid": "3ea242bb-43af-4a1a-8c1f-93bf82cc098d",
+      "rawTextureUuid": "75978426-e52e-4751-892d-4bc45e4f4e49",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 140,
+      "height": 34,
+      "rawWidth": 140,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

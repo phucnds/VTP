@@ -1,0 +1,45 @@
+{
+  "name": "viettel-post-noel-2022",
+  "version": "0.0.4",
+  "description": "",
+  "main": "levelDesign-export.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docker:build": "docker-compose -f prod.yml build",
+    "docker:push": "docker-compose -f prod.yml push",
+    "docker:release": "npm run docker:build && npm run docker:push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elofun/myid-gaminghub-v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elofun/myid-gaminghub-v2/issues"
+  },
+  "homepage": "https://github.com/elofun/myid-gaminghub-v2#readme",
+  "dependencies": {
+    "@elofun/elo-protobuf": "^1.0.9",
+    "@elofun/elo-services": "^1.0.521",
+    "@elofun/elo-tracking-client": "^1.0.6",
+    "@elofun/vds-gami-2022-wsgw": "0.0.4",
+    "@reduxjs/toolkit": "^1.6.1",
+    "@types/debug": "^4.1.7",
+    "@types/howler": "^2.2.1",
+    "@types/moment": "^2.13.0",
+    "@types/moment-timezone": "^0.5.13",
+    "@types/node": "^12.20.26",
+    "@types/ramda": "^0.28.14",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.0.0",
+    "debug": "^4.3.4",
+    "events": "^3.3.0",
+    "moment": "^2.29.3",
+    "nosleep.js": "^0.12.0",
+    "ramda": "^0.28.0",
+    "shallow-equal": "^1.2.1",
+    "uuid": "^3.4.0",
+    "xlsx": "^0.17.3"
+  }
+}

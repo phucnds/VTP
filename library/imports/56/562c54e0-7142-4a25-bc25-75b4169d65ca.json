@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "EMONEY_2",
+    "texture": "33b9ff5f-b39a-4e8f-bbb3-f876a9c1b68d",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      276,
+      121
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      276,
+      121
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

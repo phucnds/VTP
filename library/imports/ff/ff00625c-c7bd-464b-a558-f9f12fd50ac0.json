@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Vong Quay May Man",
+    "texture": "6471f59a-b711-4ba2-8287-3507e98a686c",
+    "atlas": "",
+    "rect": [
+      2,
+      3,
+      356,
+      448
+    ],
+    "offset": [
+      -76,
+      29
+    ],
+    "originalSize": [
+      512,
+      512
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
