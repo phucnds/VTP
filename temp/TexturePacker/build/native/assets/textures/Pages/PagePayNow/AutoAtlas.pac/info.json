@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "e3138a11-a532-46e0-801f-bd8f689b2603": {
@@ -46,7 +46,7 @@
             "name": "paynow-content",
             "uuid": "88adcfe7-41c6-465c-bfab-bf1c067fe53f",
             "textureUuid": "39575a3f-8e18-47c1-8815-e8ae1623dac1",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583063791_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770549437_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -59,7 +59,7 @@
             "rawHeight": 340,
             "width": 609,
             "height": 346,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/39/39575a3f-8e18-47c1-8815-e8ae1623dac1.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/39/39575a3f-8e18-47c1-8815-e8ae1623dac1.png",
             "x": 0,
             "y": 0,
             "rotated": true,
@@ -70,12 +70,12 @@
         "width": 346,
         "height": 609,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PagePayNow/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PagePayNow/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PagePayNow/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PagePayNow/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],

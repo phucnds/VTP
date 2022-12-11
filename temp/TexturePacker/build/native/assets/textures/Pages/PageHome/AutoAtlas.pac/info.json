@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "ed43797b-bac7-4f63-86b7-83380092523d": {
@@ -246,7 +246,7 @@
             "name": "string",
             "uuid": "a33bd93e-9e33-4ef8-ab2b-5e742c9888b7",
             "textureUuid": "6a4a9411-1d95-4172-a4df-6537480a8801",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_13.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_13.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -259,7 +259,7 @@
             "rawHeight": 11,
             "width": 33,
             "height": 17,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/6a/6a4a9411-1d95-4172-a4df-6537480a8801.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/6a/6a4a9411-1d95-4172-a4df-6537480a8801.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 33,
@@ -269,7 +269,7 @@
             "name": "quest-item-bg-footer",
             "uuid": "4b17e82f-9332-493d-8610-5ddab2016d30",
             "textureUuid": "20418b10-799a-401e-b699-f6026620e925",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_6.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_6.png",
             "trim": {
               "x": 36,
               "y": 3,
@@ -282,7 +282,7 @@
             "rawHeight": 25,
             "width": 717,
             "height": 31,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/20/20418b10-799a-401e-b699-f6026620e925.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/20/20418b10-799a-401e-b699-f6026620e925.png",
             "x": 33,
             "y": 0,
             "rotatedWidth": 717,
@@ -292,7 +292,7 @@
             "name": "price-tag",
             "uuid": "e53776bc-676d-404c-b2a7-a54eedbd2c56",
             "textureUuid": "d28784f1-bc7a-4711-b75f-eb820c369b7d",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_23.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_23.png",
             "trim": {
               "x": 753,
               "y": 3,
@@ -305,7 +305,7 @@
             "rawHeight": 31,
             "width": 79,
             "height": 34,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/d2/d28784f1-bc7a-4711-b75f-eb820c369b7d.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/d2/d28784f1-bc7a-4711-b75f-eb820c369b7d.png",
             "x": 750,
             "y": 0,
             "rotatedWidth": 79,
@@ -315,7 +315,7 @@
             "name": "reward-bg",
             "uuid": "9808f029-9b9a-4232-a05b-5e754fe2aab9",
             "textureUuid": "5abde21e-0881-47f9-9a36-748215fc84a0",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_12.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_12.png",
             "trim": {
               "x": 832,
               "y": 3,
@@ -328,7 +328,7 @@
             "rawHeight": 68,
             "width": 161,
             "height": 73,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/5a/5abde21e-0881-47f9-9a36-748215fc84a0.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/5a/5abde21e-0881-47f9-9a36-748215fc84a0.png",
             "x": 829,
             "y": 0,
             "rotatedWidth": 161,
@@ -338,7 +338,7 @@
             "name": "quest-item-bg-header",
             "uuid": "fedbf08d-736c-40a8-b25e-eb5b3027928c",
             "textureUuid": "79025af0-837d-4d66-9ec8-43a69081e511",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_25.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_25.png",
             "trim": {
               "x": 3,
               "y": 34,
@@ -351,7 +351,7 @@
             "rawHeight": 46,
             "width": 717,
             "height": 51,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/79/79025af0-837d-4d66-9ec8-43a69081e511.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/79/79025af0-837d-4d66-9ec8-43a69081e511.png",
             "x": 0,
             "y": 31,
             "rotatedWidth": 717,
@@ -361,7 +361,7 @@
             "name": "bgAvt",
             "uuid": "57e12089-2b32-4231-86cc-9eaaf75ae5cf",
             "textureUuid": "b270e666-17a4-4e3f-ad5a-fc7dd4a0a378",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_8.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_8.png",
             "trim": {
               "x": 720,
               "y": 37,
@@ -374,7 +374,7 @@
             "rawHeight": 92,
             "width": 96,
             "height": 98,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/b2/b270e666-17a4-4e3f-ad5a-fc7dd4a0a378.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/b2/b270e666-17a4-4e3f-ad5a-fc7dd4a0a378.png",
             "x": 717,
             "y": 34,
             "rotated": true,
@@ -385,7 +385,7 @@
             "name": "bgName",
             "uuid": "c7606df3-e169-4d1d-b8cf-404fc842c6fd",
             "textureUuid": "14ca4439-5ff5-41cc-8d16-1eb927b51f1a",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_20.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_20.png",
             "trim": {
               "x": 3,
               "y": 85,
@@ -398,7 +398,7 @@
             "rawHeight": 63,
             "width": 238,
             "height": 67,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/14/14ca4439-5ff5-41cc-8d16-1eb927b51f1a.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/14/14ca4439-5ff5-41cc-8d16-1eb927b51f1a.png",
             "x": 0,
             "y": 82,
             "rotatedWidth": 238,
@@ -408,7 +408,7 @@
             "name": "bgClose",
             "uuid": "a57d73e6-dea3-478d-a093-7be8ad20821a",
             "textureUuid": "7dc82ff5-d90a-4913-8597-9de630625ed6",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_15.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_15.png",
             "trim": {
               "x": 818,
               "y": 76,
@@ -421,7 +421,7 @@
             "rawHeight": 102,
             "width": 103,
             "height": 106,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/7d/7dc82ff5-d90a-4913-8597-9de630625ed6.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/7d/7dc82ff5-d90a-4913-8597-9de630625ed6.png",
             "x": 815,
             "y": 73,
             "rotated": true,
@@ -432,7 +432,7 @@
             "name": "bgSanqua",
             "uuid": "a4c0362c-300b-470c-9dde-7bb729617363",
             "textureUuid": "eb9483aa-7c62-4db2-b6aa-3fbfc0c2d0ff",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_14.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_14.png",
             "trim": {
               "x": 241,
               "y": 85,
@@ -445,7 +445,7 @@
             "rawHeight": 97,
             "width": 265,
             "height": 96,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/eb/eb9483aa-7c62-4db2-b6aa-3fbfc0c2d0ff.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/eb/eb9483aa-7c62-4db2-b6aa-3fbfc0c2d0ff.png",
             "x": 238,
             "y": 82,
             "rotatedWidth": 265,
@@ -455,7 +455,7 @@
             "name": "bgSound",
             "uuid": "31f15f99-94c1-4c2b-a6d2-c0658fa7bbb0",
             "textureUuid": "8c475d6f-d490-4c1e-a342-8315783f0fd0",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_3.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_3.png",
             "trim": {
               "x": 506,
               "y": 85,
@@ -468,7 +468,7 @@
             "rawHeight": 102,
             "width": 104,
             "height": 106,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/8c/8c475d6f-d490-4c1e-a342-8315783f0fd0.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/8c/8c475d6f-d490-4c1e-a342-8315783f0fd0.png",
             "x": 503,
             "y": 82,
             "rotated": true,
@@ -479,7 +479,7 @@
             "name": "Group 65",
             "uuid": "cef5c447-eb5b-42fd-9831-2ceadaefc8fc",
             "textureUuid": "9fe910f2-4608-4aad-9ada-41fd17a97505",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_21.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_21.png",
             "trim": {
               "x": 612,
               "y": 85,
@@ -492,7 +492,7 @@
             "rawHeight": 102,
             "width": 104,
             "height": 106,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/9f/9fe910f2-4608-4aad-9ada-41fd17a97505.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/9f/9fe910f2-4608-4aad-9ada-41fd17a97505.png",
             "x": 609,
             "y": 82,
             "rotated": true,
@@ -503,7 +503,7 @@
             "name": "bgAddTurn",
             "uuid": "c24be1f6-af84-41cd-bf81-09beb08bbf1a",
             "textureUuid": "e864e726-9b9a-4b0e-8cdc-39066542af48",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_19.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_19.png",
             "trim": {
               "x": 3,
               "y": 152,
@@ -516,7 +516,7 @@
             "rawHeight": 97,
             "width": 233,
             "height": 101,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/e8/e864e726-9b9a-4b0e-8cdc-39066542af48.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/e8/e864e726-9b9a-4b0e-8cdc-39066542af48.png",
             "x": 0,
             "y": 149,
             "rotatedWidth": 233,
@@ -526,7 +526,7 @@
             "name": "Group 59",
             "uuid": "ac5f9b77-569f-439a-b023-ed461762a4cd",
             "textureUuid": "2b4036c9-d8d5-494c-9f27-9f03392e101d",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_17.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_17.png",
             "trim": {
               "x": 718,
               "y": 179,
@@ -539,7 +539,7 @@
             "rawHeight": 102,
             "width": 105,
             "height": 106,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/2b/2b4036c9-d8d5-494c-9f27-9f03392e101d.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/2b/2b4036c9-d8d5-494c-9f27-9f03392e101d.png",
             "x": 715,
             "y": 176,
             "rotated": true,
@@ -550,7 +550,7 @@
             "name": "turn-balance-bg",
             "uuid": "4d3cb3a1-2b03-42f3-98af-e6a8836fb3db",
             "textureUuid": "37f7ce35-3cef-41b7-a90a-2088be6f931b",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_7.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_7.png",
             "trim": {
               "x": 824,
               "y": 179,
@@ -563,7 +563,7 @@
             "rawHeight": 103,
             "width": 166,
             "height": 109,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/37/37f7ce35-3cef-41b7-a90a-2088be6f931b.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/37/37f7ce35-3cef-41b7-a90a-2088be6f931b.png",
             "x": 821,
             "y": 176,
             "rotatedWidth": 166,
@@ -573,7 +573,7 @@
             "name": "Group 1319",
             "uuid": "1299bf4b-7c47-47fc-b178-13185e3aadcf",
             "textureUuid": "45b2f1a7-a6a3-4b4a-a6e6-0f32d31797cf",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069411_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554982_image_0.png",
             "trim": {
               "x": 236,
               "y": 181,
@@ -586,7 +586,7 @@
             "rawHeight": 119,
             "width": 120,
             "height": 123,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/45/45b2f1a7-a6a3-4b4a-a6e6-0f32d31797cf.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/45/45b2f1a7-a6a3-4b4a-a6e6-0f32d31797cf.png",
             "x": 233,
             "y": 178,
             "rotated": true,
@@ -597,7 +597,7 @@
             "name": "Group 11",
             "uuid": "2559c0b4-9f91-4de7-b240-8d0a1722b9e2",
             "textureUuid": "71d4b674-6504-41e5-b503-145c3634f4fe",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_1.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_1.png",
             "trim": {
               "x": 359,
               "y": 181,
@@ -610,7 +610,7 @@
             "rawHeight": 119,
             "width": 120,
             "height": 123,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/71/71d4b674-6504-41e5-b503-145c3634f4fe.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/71/71d4b674-6504-41e5-b503-145c3634f4fe.png",
             "x": 356,
             "y": 178,
             "rotated": true,
@@ -621,7 +621,7 @@
             "name": "Group 72",
             "uuid": "58856151-ce29-49c4-957f-e47e75a13198",
             "textureUuid": "f04ed533-3b05-44cf-915e-c663e75454a3",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_9.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_9.png",
             "trim": {
               "x": 482,
               "y": 189,
@@ -634,7 +634,7 @@
             "rawHeight": 119,
             "width": 120,
             "height": 123,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/f0/f04ed533-3b05-44cf-915e-c663e75454a3.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/f0/f04ed533-3b05-44cf-915e-c663e75454a3.png",
             "x": 479,
             "y": 186,
             "rotated": true,
@@ -645,7 +645,7 @@
             "name": "Group 71",
             "uuid": "7f1ee06e-ded3-4325-9ea4-ce50b84d1787",
             "textureUuid": "d71b85e4-89d0-4072-8c32-fddf451c5f1f",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_11.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_11.png",
             "trim": {
               "x": 3,
               "y": 253,
@@ -658,7 +658,7 @@
             "rawHeight": 119,
             "width": 120,
             "height": 123,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/d7/d71b85e4-89d0-4072-8c32-fddf451c5f1f.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/d7/d71b85e4-89d0-4072-8c32-fddf451c5f1f.png",
             "x": 0,
             "y": 250,
             "rotated": true,
@@ -669,7 +669,7 @@
             "name": "Worker1",
             "uuid": "b8a15e43-6d8f-4a2c-947e-d83c3f01899d",
             "textureUuid": "995cff16-7c2e-4c15-bea2-d2880365abc5",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_18.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_18.png",
             "trim": {
               "x": 605,
               "y": 288,
@@ -682,7 +682,7 @@
             "rawHeight": 280,
             "width": 135,
             "height": 241,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/99/995cff16-7c2e-4c15-bea2-d2880365abc5.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/99/995cff16-7c2e-4c15-bea2-d2880365abc5.png",
             "x": 602,
             "y": 285,
             "rotated": true,
@@ -693,7 +693,7 @@
             "name": "Worker2",
             "uuid": "d57bbc4c-a8bd-4e78-888c-4759546cad2e",
             "textureUuid": "1ae07e49-51d3-4270-8005-e6e905074e53",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_22.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_22.png",
             "trim": {
               "x": 126,
               "y": 301,
@@ -706,7 +706,7 @@
             "rawHeight": 258,
             "width": 136,
             "height": 239,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/1a/1ae07e49-51d3-4270-8005-e6e905074e53.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/1a/1ae07e49-51d3-4270-8005-e6e905074e53.png",
             "x": 123,
             "y": 298,
             "rotated": true,
@@ -717,7 +717,7 @@
             "name": "quest-item-bg-body",
             "uuid": "26e5e3ea-84df-4d6c-8020-9f2a57354d4c",
             "textureUuid": "b1a3b54d-518c-4044-adbb-6179158ccc82",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_2.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_2.png",
             "trim": {
               "x": 3,
               "y": 437,
@@ -730,7 +730,7 @@
             "rawHeight": 175,
             "width": 717,
             "height": 181,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/b1/b1a3b54d-518c-4044-adbb-6179158ccc82.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/b1/b1a3b54d-518c-4044-adbb-6179158ccc82.png",
             "x": 0,
             "y": 434,
             "rotatedWidth": 717,
@@ -740,12 +740,12 @@
         "width": 990,
         "height": 615,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PageHome/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PageHome/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PageHome/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PageHome/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],
@@ -754,7 +754,7 @@
         "name": "bgGameplay_day",
         "uuid": "34fc0733-1161-4f31-8a74-d760e2e29a03",
         "textureUuid": "d2b98392-edbd-4537-8089-1704bd183623",
-        "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_4.png",
+        "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_4.png",
         "trim": {
           "x": 0,
           "y": 0,
@@ -767,13 +767,13 @@
         "rawHeight": 1628,
         "width": 1230,
         "height": 1634,
-        "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/d2/d2b98392-edbd-4537-8089-1704bd183623.png"
+        "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/d2/d2b98392-edbd-4537-8089-1704bd183623.png"
       },
       {
         "name": "details_night",
         "uuid": "37e52a4d-9905-461d-b01e-e437df41ed8f",
         "textureUuid": "4dabb1a1-d76b-4110-bdc2-bce2a116843e",
-        "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_5.png",
+        "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_5.png",
         "trim": {
           "x": 4,
           "y": 3,
@@ -786,13 +786,13 @@
         "rawHeight": 1297,
         "width": 725,
         "height": 1297,
-        "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/4d/4dabb1a1-d76b-4110-bdc2-bce2a116843e.png"
+        "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/4d/4dabb1a1-d76b-4110-bdc2-bce2a116843e.png"
       },
       {
         "name": "details_day",
         "uuid": "5f974fc7-835e-4428-ae7e-ec880a9b4e45",
         "textureUuid": "22406af0-8aef-4abc-ab02-9221395f23cf",
-        "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_10.png",
+        "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554983_image_10.png",
         "trim": {
           "x": 4,
           "y": 3,
@@ -805,13 +805,13 @@
         "rawHeight": 1297,
         "width": 725,
         "height": 1297,
-        "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/22/22406af0-8aef-4abc-ab02-9221395f23cf.png"
+        "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/22/22406af0-8aef-4abc-ab02-9221395f23cf.png"
       },
       {
         "name": "bgGameplay_night",
         "uuid": "a7559a8e-6c55-45c0-a96f-32bf31f13cb0",
         "textureUuid": "64924933-5846-46f8-8aeb-2e83f7da7f58",
-        "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069412_image_16.png",
+        "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_16.png",
         "trim": {
           "x": 0,
           "y": 0,
@@ -824,13 +824,13 @@
         "rawHeight": 1628,
         "width": 1230,
         "height": 1634,
-        "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/64/64924933-5846-46f8-8aeb-2e83f7da7f58.png"
+        "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/64/64924933-5846-46f8-8aeb-2e83f7da7f58.png"
       },
       {
         "name": "top_cover",
         "uuid": "fe1bdf19-17d8-40b3-9805-4804557a5d40",
         "textureUuid": "cfb0210c-b4a9-47df-b679-ae680450743e",
-        "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583069413_image_24.png",
+        "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770554984_image_24.png",
         "trim": {
           "x": 0,
           "y": 1,
@@ -843,7 +843,7 @@
         "rawHeight": 1339,
         "width": 740,
         "height": 1156,
-        "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/cf/cfb0210c-b4a9-47df-b679-ae680450743e.png"
+        "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/cf/cfb0210c-b4a9-47df-b679-ae680450743e.png"
       }
     ]
   }

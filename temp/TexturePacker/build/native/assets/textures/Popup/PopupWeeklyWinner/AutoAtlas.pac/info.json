@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "ff306d6d-467e-4d3c-b49b-51257f5284f4": {
@@ -46,7 +46,7 @@
             "name": "popup-weekly-winner",
             "uuid": "f29fb14f-2d0c-4a7f-8c16-fc12d3452ced",
             "textureUuid": "90839ce0-7648-4e56-88a8-fc43cb5c32d8",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583067138_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770552819_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -59,7 +59,7 @@
             "rawHeight": 768,
             "width": 756,
             "height": 774,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/90/90839ce0-7648-4e56-88a8-fc43cb5c32d8.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/90/90839ce0-7648-4e56-88a8-fc43cb5c32d8.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 756,
@@ -69,12 +69,12 @@
         "width": 756,
         "height": 774,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Popup/PopupWeeklyWinner/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],

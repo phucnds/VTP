@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "d648381e-c721-4abe-ab33-67fb46eaa3bd": {
@@ -62,7 +62,7 @@
             "name": "popup-buy-weekly-ticket",
             "uuid": "0273f628-1bdb-444a-b8e3-1a48d2a67d26",
             "textureUuid": "09bd5a47-8040-4c42-9451-3a26a6209b75",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770549649_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -75,7 +75,7 @@
             "rawHeight": 563,
             "width": 621,
             "height": 559,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/09/09bd5a47-8040-4c42-9451-3a26a6209b75.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/09/09bd5a47-8040-4c42-9451-3a26a6209b75.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 621,
@@ -85,7 +85,7 @@
             "name": "popup-buy-weekly-ticket-end-event",
             "uuid": "2ceff490-1b57-4217-b59a-bbf7423aeb1c",
             "textureUuid": "6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_1.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770549649_image_1.png",
             "trim": {
               "x": 3,
               "y": 562,
@@ -98,7 +98,7 @@
             "rawHeight": 215,
             "width": 604,
             "height": 220,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/6a/6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/6a/6a5c6e5e-ebbc-4dd7-aaa5-7e8a47df8757.png",
             "x": 0,
             "y": 559,
             "rotatedWidth": 604,
@@ -108,7 +108,7 @@
             "name": "popup-buy-weekly-ticket-buy-phase-timeout",
             "uuid": "7e5c5576-a5c1-47f6-b7d9-1a8ad6ca9909",
             "textureUuid": "ff6e558a-f031-4e1a-9030-1eab7111f277",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065402_image_2.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770549649_image_2.png",
             "trim": {
               "x": 3,
               "y": 782,
@@ -121,7 +121,7 @@
             "rawHeight": 234,
             "width": 509,
             "height": 239,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/ff/ff6e558a-f031-4e1a-9030-1eab7111f277.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/ff/ff6e558a-f031-4e1a-9030-1eab7111f277.png",
             "x": 0,
             "y": 779,
             "rotatedWidth": 509,
@@ -131,12 +131,12 @@
         "width": 621,
         "height": 1018,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Popup/PopupBuyWeeklyTicket/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],

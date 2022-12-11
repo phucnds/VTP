@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "aa47be13-d2f9-4840-9310-4e9529eb285b": {
@@ -46,7 +46,7 @@
             "name": "savenow-content",
             "uuid": "43dd1d6a-0978-4d98-b6f3-d6e2ef65df9e",
             "textureUuid": "c83fbee0-c368-403c-bd21-7bc795f0198e",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583066269_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770552463_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -59,7 +59,7 @@
             "rawHeight": 601,
             "width": 607,
             "height": 606,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/c8/c83fbee0-c368-403c-bd21-7bc795f0198e.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/c8/c83fbee0-c368-403c-bd21-7bc795f0198e.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 607,
@@ -69,12 +69,12 @@
         "width": 607,
         "height": 606,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PageSavenow/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PageSavenow/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PageSavenow/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PageSavenow/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],

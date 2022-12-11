@@ -1,5 +1,5 @@
 {
-  "projectPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022",
+  "projectPath": "/Users/swift/Documents/GitHub/VTP",
   "actualPlatform": "web-mobile",
   "mtimes": {
     "b6575d96-b4bf-4ddf-9c57-4262cb64d665": {
@@ -46,7 +46,7 @@
             "name": "gui-tiet-kiem-content",
             "uuid": "3496866d-3dc9-4870-8553-d6ea6eb545de",
             "textureUuid": "5298989e-6f65-4b7a-be21-66cde68dc17d",
-            "path": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/trimImages/spritesheet_js_1670583065687_image_0.png",
+            "path": "/Users/swift/Documents/GitHub/VTP/temp/trimImages/spritesheet_js_1670770550118_image_0.png",
             "trim": {
               "x": 3,
               "y": 3,
@@ -59,7 +59,7 @@
             "rawHeight": 601,
             "width": 606,
             "height": 607,
-            "originalPath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/library/imports/52/5298989e-6f65-4b7a-be21-66cde68dc17d.png",
+            "originalPath": "/Users/swift/Documents/GitHub/VTP/library/imports/52/5298989e-6f65-4b7a-be21-66cde68dc17d.png",
             "x": 0,
             "y": 0,
             "rotatedWidth": 606,
@@ -69,12 +69,12 @@
         "width": 606,
         "height": 607,
         "name": "AutoAtlas-1",
-        "imagePath": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PayGuiTietKiem/AutoAtlas.pac/AutoAtlas-1.png",
+        "imagePath": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PayGuiTietKiem/AutoAtlas.pac/AutoAtlas-1.png",
         "compressd": {
           "suffix": [
             ".png"
           ],
-          "imagePathNoExt": "/Users/swift/Documents/GitHub/viettel-post-noel-2022/temp/TexturePacker/build/native/assets/textures/Pages/PayGuiTietKiem/AutoAtlas.pac/compressed/AutoAtlas-1"
+          "imagePathNoExt": "/Users/swift/Documents/GitHub/VTP/temp/TexturePacker/build/native/assets/textures/Pages/PayGuiTietKiem/AutoAtlas.pac/compressed/AutoAtlas-1"
         }
       }
     ],
