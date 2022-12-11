@@ -260,8 +260,8 @@
                     ctx.drawImage(img, 0, 0, img.width * loadingDefines.progress, img.height, this.x, this.y + myOffsetY, img
                         .width * this.scale * loadingDefines.progress, img.height * this.scale);
                 }.bind(fg);
-                bg.setPos(canvas.width / 2 - 100, canvas.height * 0.80 );
-                fg.setPos(canvas.width / 2 - 100, canvas.height * 0.80 );
+                bg.setPos(canvas.width / 2 - 100, canvas.height * 0.82 );
+                fg.setPos(canvas.width / 2 - 100, canvas.height * 0.82 );
                 loading_text.setPos(canvas.width / 2 - 80, canvas.height / 2 + 130);
 
                 function loop() {
@@ -298,11 +298,7 @@
 
                 this.setPos = function (x, y) {
                     this.x = x;
-                    this.y = y;
-
-                    console.log(canvas.height)
-                    console.log(canvas.height * 0.80)
-                    
+                    this.y = y;        
                 };
 
                 this.update = function (dt) {
