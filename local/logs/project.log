@@ -2534,3 +2534,111 @@ Missing uuid: "ccea27b5-fc7a-4542-8cfb-661d39e8c99b"
 2022-12-11T16:22:19.048Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
 2022-12-11T16:22:19.052Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
 2022-12-11T16:22:19.201Z - normal: Built to "/Users/swift/Documents/GitHub/VTP/build/web-mobile" successfully
+2022-12-11T16:27:02.812Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "agreements": {},
+  "android": {
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/swift/Documents/GitHub/VTP/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/swift/Documents/GitHub/VTP/build/web-mobile",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "3D Physics/Builtin"
+  ],
+  "fb-instant-games": {},
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "ios": {
+    "REMOTE_SERVER_ROOT": "",
+    "ios_enable_jit": true,
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "mainCompressionType": "merge_all_json",
+  "mainIsRemote": false,
+  "md5Cache": true,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.demo",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "d054a05c-c593-4407-b24d-53c716205812"
+  ],
+  "separateEngineMode": false,
+  "sourceMaps": false,
+  "startScene": "d054a05c-c593-4407-b24d-53c716205812",
+  "template": "link",
+  "title": "viettel-post-noel-2022",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "portrait",
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "xxteaKey": "ac5f21bf-bed3-47",
+  "zipCompressJs": true,
+  "project": "/Users/swift/Documents/GitHub/VTP",
+  "projectName": "viettel-post-noel-2022",
+  "debugBuildWorker": false
+}
+2022-12-11T16:27:02.814Z - normal: Building /Users/swift/Documents/GitHub/VTP
+2022-12-11T16:27:02.814Z - normal: Destination /Users/swift/Documents/GitHub/VTP/build/web-mobile
+2022-12-11T16:27:02.817Z - normal: Delete /Users/swift/Documents/GitHub/VTP/build/web-mobile/**/*
+2022-12-11T16:27:02.857Z - normal: Building 3D physics modules...
+2022-12-11T16:27:09.103Z - normal: Compiling /Users/swift/Documents/GitHub/VTP
+2022-12-11T16:27:18.996Z - normal: Start building assets
+2022-12-11T16:27:18.997Z - normal: Start spawn build-worker
+2022-12-11T16:27:19.420Z - normal: Finish spawn build-worker
+2022-12-11T16:27:19.420Z - normal: Start init build-worker
+2022-12-11T16:27:21.045Z - normal: Finish init build-worker
+2022-12-11T16:27:21.045Z - normal: Start build-assets in worker
+2022-12-11T16:27:23.010Z - warn: Original texture "db://assets/textures/animation/Pop up Effect.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Pop up Effect.json", it will still be retained.
+2022-12-11T16:27:23.011Z - warn: Original texture "db://assets/textures/animation/Vong Quay May Man.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Vong Quay May Man.json", it will still be retained.
+2022-12-11T16:27:23.012Z - warn: Original texture "db://assets/textures/animation/Button.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Button.json", it will still be retained.
+2022-12-11T16:27:23.012Z - warn: Original texture "db://assets/textures/animation/Confetti.png" was already packed to Auto Atlas "assets/textures/animation/AutoAtlas.pac", but since the original texture is used directly by "db://assets/textures/animation/Confetti.json", it will still be retained.
+2022-12-11T16:27:23.013Z - warn: db://assets/textures/common/spin-bg.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.013Z - warn: db://assets/textures/common/bg.jpg has not been packed into AutoAtlas.
+2022-12-11T16:27:23.013Z - warn: db://assets/textures/Popup/common/popup-fx.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.013Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_day.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.014Z - warn: db://assets/textures/Pages/PageHome/details_night.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.014Z - warn: db://assets/textures/Pages/PageHome/details_day.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.014Z - warn: db://assets/textures/Pages/PageHome/bgGameplay_night.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.015Z - warn: db://assets/textures/Pages/PageHome/top_cover.png has not been packed into AutoAtlas.
+2022-12-11T16:27:23.207Z - normal: Finish build-assets in worker
+2022-12-11T16:27:23.227Z - normal: Finish building assets
+2022-12-11T16:27:23.242Z - normal: Start building plugin scripts
+2022-12-11T16:27:23.281Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2022-12-11T16:27:23.285Z - normal: Generating html from /Applications/CocosCreator/Creator/2.4.4/Creator/2.4.4/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2022-12-11T16:27:23.421Z - normal: Built to "/Users/swift/Documents/GitHub/VTP/build/web-mobile" successfully
